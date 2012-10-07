@@ -23,11 +23,12 @@
 	</head>
 
 	<body>
-		{% include colonna.html %}
-			<div id="articoli">
-				{{ content }}
-			    {% include piede.html %}	   
-			</div>
-		</div>
+		<div id="pagina">
+			{% include colonna.html %}
+				<div id="articoli">
+					{{ content }}
+				</div> <!-- articoli -->
+			    	{% include piede.html %}	   
+		</div> <!-- pagina -->
 	</body>
 </html>

@@ -21,56 +21,9 @@ html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
     font-style: normal;
 
 }
-
-body {
-  margin: 0;
-	background: #073642;
-	font-family: Georgia, "DejaVu Serif", Times, "Times New Roman", serif;
-	font-size: 66.5%; /* Resets UA 16px common default such that 1em = 10px. Kudos to Richard Rutter. */
-	line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
-	color: #111;
-	}
-/*#contenuto {
-	margin: 0 auto;
-	background-color: white;
-	padding-left: 250px;
-	}*/
-#articoli {
-  display: inline;
-  float: right;
-  margin: 2em;
-  width: 68em; 
-}
-#colonna {
-  height: 100%;
-  background-color: #ece8e4;
-  border-right: 1px solid #d6d2cd;
-  position: fixed;
-  left: 0;
-  width:200px;
-  display:inline;
-  float:left;
-  margin:0;
-}
-#icona {
-    -moz-border-radius: 50% 50% 50% 50%;
-    -webkit-border-radius: 50% 50% 50% 50%;
-    -o- border-radius: 50% 50% 50% 50%;
-    border-radius: 50% 50% 50% 50%;
-    border: 1em solid white;
-    display: block;
-    max-width: 5em;
-    border-bottom: 0.5em solid #268bd2
-    }
-
-#icona:hover {
-    border: 1em solid #268bd2;
-    border-bottom: 0.5em solid white
-    }
-
 a {
-	color: #268bd2;
-	text-decoration: none;
+  color: #268bd2;
+  text-decoration: none;
 } 
 a:hover {
   -moz-transition: color 0.5s, -moz-background 0.5s;
@@ -81,19 +34,60 @@ a:hover {
   color: white;
   transition: color .5s;
 }
-#titolo {
+abbr {
+  border-width: 0px;
+}
+body {
+  margin: 0;
+	font-family: Georgia, "DejaVu Serif", Times, "Times New Roman", serif;
+	font-size: 85%; /* Resets UA 16px common default such that 1em = 10px. Kudos to Richard Rutter. */
+	line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
+	color: #111;
+	}
+#articoli {
+  width:740px; display:inline; float:right; margin-top:80px;
+}
+#colonna {
+height: 100%;
+width:200px;
+display:block;
+float:left;
+margin:0;
+background-color: #ece8e4;
+}
+#icona {
+    -moz-border-radius: 50% 50% 50% 50%;
+    -webkit-border-radius: 50% 50% 50% 50%;
+    -o-border-radius: 50% 50% 50% 50%;
+    border-radius: 50% 50% 50% 50%;
+    border: 1em solid white;
+    display: block;
+    max-width: 5em;
+    border-bottom: 0.5em solid #268bd2
+}
+#icona:hover {
+    border: 1em solid #268bd2;
+    border-bottom: 0.5em solid white;
+    transition: color 1s;
+    }
+#pagina {
+  width:960px; margin-left:auto; margin-right:auto;
+  background-color: #ece8e4;
+}
+.pezzo {
+  -moz-border-radius-bottomright: 8px;  border-bottom-right-radius: 8px;     -moz-border-radius-bottomleft: 8px;  border-bottom-left-radius: 8px;  
+         -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15); box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+}
+.testa-pezzo {
+  background:#ece8e4;
+  height:60px;
+  padding-left:20px;
+  padding-top: 5px;
+  display:block;
+  line-height: 0.75;
+}
+.titolo {
 	'LinuxLibertine0Regular', Times;letter-spacing: 0;
 	text-transform: uppercase;
-	font-size: 20px;
-}
-#contenuto {
-float: left;
-clear: right;
-margin: 2em;
-background-color: white;
-width: 68em;
-padding: 2em;
-}
-abbr {
-	border-width: 0px;
+	font-size: 18px;
 }
