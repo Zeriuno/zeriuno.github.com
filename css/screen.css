@@ -45,7 +45,7 @@ body {
 	color: #111;
 	}
 #articoli {
-  width:740px; display:inline; float:right; margin-top:80px;
+  width:740px; display:inline; float:right; margin-top:0.5em;
 }
 #colonna {
 height: 100%;
