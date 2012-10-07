@@ -1,6 +1,6 @@
 /*I commenti in inglese sono di Simon Pascal Klein: klepas.org
 Sfondo: #ece8e4;
-
+blu di sfondo possibili 006e8a, #073642
 */
 
 html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
@@ -43,13 +43,14 @@ body {
 	font-size: 85%; /* Resets UA 16px common default such that 1em = 10px. Kudos to Richard Rutter. */
 	line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
 	color: #111;
+  background-color: #ece8e4;
 	}
 #articoli {
   width:740px; display:inline; float:right; margin-top:0.5em;
 }
 #colonna {
 height: 100%;
-width:200px;
+width:80px;
 display:block;
 float:left;
 margin:0;
@@ -75,8 +76,17 @@ background-color: #ece8e4;
   background-color: #ece8e4;
 }
 .pezzo {
-  -moz-border-radius-bottomright: 8px;  border-bottom-right-radius: 8px;     -moz-border-radius-bottomleft: 8px;  border-bottom-left-radius: 8px;  
-         -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15); box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+  -moz-border-radius-bottomright: 8px;  
+  border-bottom-right-radius: 8px;
+  -moz-border-radius-bottomleft: 8px;
+  border-bottom-left-radius: 8px;  
+  -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+  -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+  box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+  background-color: white;
+  margin-bottom: 20px;
+  text-align: justify;
+  text-justify: newspaper;
 }
 .testa-pezzo {
   background:#ece8e4;
