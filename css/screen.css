@@ -1,0 +1,99 @@
+/*I commenti in inglese sono di Simon Pascal Klein: klepas.org
+Sfondo: #ece8e4;
+
+*/
+
+html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
+
+@font-face {
+	font-family: 'ayres-royal-plus-pdf';
+	src: url(/tipografia/ayres-royal-plus-pdf.ttf);
+}
+
+@font-face {
+    font-family: 'LinuxLibertineORegular';
+    src: url('/tipografia/LinLibertine_R-webfont.eot');
+    src: url('/tipografia/LinLibertine_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/tipografia/LinLibertine_R-webfont.woff') format('woff'),
+         url('/tipografia/LinLibertine_R-webfont.ttf') format('truetype'),
+         url('/tipografia/LinLibertine_R-webfont.svg#LinuxLibertineORegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+  margin: 0;
+	background: #073642;
+	font-family: Georgia, "DejaVu Serif", Times, "Times New Roman", serif;
+	font-size: 66.5%; /* Resets UA 16px common default such that 1em = 10px. Kudos to Richard Rutter. */
+	line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
+	color: #111;
+	}
+/*#contenuto {
+	margin: 0 auto;
+	background-color: white;
+	padding-left: 250px;
+	}*/
+#articoli {
+  display: inline;
+  float: right;
+  margin: 2em;
+  width: 68em; 
+}
+#colonna {
+  height: 100%;
+  background-color: #ece8e4;
+  border-right: 1px solid #d6d2cd;
+  position: fixed;
+  left: 0;
+  width:200px;
+  display:inline;
+  float:left;
+  margin:0;
+}
+#icona {
+    -moz-border-radius: 50% 50% 50% 50%;
+    -webkit-border-radius: 50% 50% 50% 50%;
+    -o- border-radius: 50% 50% 50% 50%;
+    border-radius: 50% 50% 50% 50%;
+    border: 1em solid white;
+    display: block;
+    max-width: 5em;
+    border-bottom: 0.5em solid #268bd2
+    }
+
+#icona:hover {
+    border: 1em solid #268bd2;
+    border-bottom: 0.5em solid white
+    }
+
+a {
+	color: #268bd2;
+	text-decoration: none;
+} 
+a:hover {
+  -moz-transition: color 0.5s, -moz-background 0.5s;
+  -o-transition: color 0.5s, -o-background 0.5s;
+  -webkit-transition: color 0.5s, -webkit-background 0.5s;
+  transition: color 0.5s, background 0.5s;
+  background: #268bd2;
+  color: white;
+  transition: color .5s;
+}
+#titolo {
+	'LinuxLibertine0Regular', Times;letter-spacing: 0;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+#contenuto {
+float: left;
+clear: right;
+margin: 2em;
+background-color: white;
+width: 68em;
+padding: 2em;
+}
+abbr {
+	border-width: 0px;
+}

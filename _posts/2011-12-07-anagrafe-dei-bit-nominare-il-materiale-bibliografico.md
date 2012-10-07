@@ -1,0 +1,25 @@
+--- 
+title: "Anagrafe dei bit: nominare il materiale bibliografico"
+layout: post
+status: publish
+tags: 
+- Computer
+meta: 
+  jabber_published: "1323244361"
+  email_notification: "1323244366"
+  _edit_last: "24994084"
+  superawesome: "false"
+type: post
+published: true
+---
+<p>Trovare è possibile. Se ad esempio cercate un articolo o anche un libro, potete trovarlo nella <a href="/2011/12/06/la-biblioteca-dellinha-meglio-virtuale-che-reale.html" title="Articolo sulla biblioteca digitale dell'INHA, in italiano">biblioteca digitale dell&#8217;INHA</a>; scaricarlo tramire <span lang="fr">Persée</span> (se è tratto da <a href="http://www.persee.fr/web/revues/home/prescript/revue/rvart" title="Pagina di Persée.fr dedicata a La Revue de l'Art, in francese"><i>La Revue de l&#8217;Art</i></a>, per esempio; scoprirlo su <a href="http://www.revues.org/" title="Revues.org, in francese">Revues.org</a> o su <a href="http://gallica.bnf.fr/" title="Gallica, in francese">Gallica</a>, della <span lang="fr">Bibliothèque nationale de France</span>. Se siete disposti a pagare o se qualcuno lo fa per voi, potete pure servirvi di <a href="http://www.jstor.org/" title="JSTOR, in inglese">JSTOR</a> o del <a href="http://www.britishnewspaperarchive.co.uk/" title="Il British Newspaper Archive, in inglese">British Newspaper Archive</a>, nuovo e presentato da <a href="http://parfoisjetrouve.com/2011/11/29/65-millions-darticles-de-journaux-de-1700-a-nos-jours-en-ligne/" title="Anthony Nelzin presenta il British Newspaper Archive, in francese">Anthony</a>. Trovare sembra, più che possibile, proprio facile, visto che è anche possibile recarsi fisicamente in una biblioteca, consultare i testi necessari e talvolta portarli pure via, prendendo appunti quando e quanto più conviene.</p>
+
+<p>E poi? <a href="/2011/11/07/anagrafe-dei-bit-nominare-le-immagini.html" title="Come nominare le immagini? Articolo su Zeriuno">Come per le fotografie</a>, bisogna porsi la domanda di che nomi dare ai documenti che, tutti questi ritrovamenti hanno generato! E la risposta è tanto più importante che, dopo avere trovato, troppo facile è perdere i reperti nei meandri di un disco fisso non organizzato a dovere.</p>
+
+<p>La soluzione cui sono approdato è semplice ed adotta sempre la stessa formula <i>COGNOME AUTORE ANNO - Titolo del testo</i>, che si tratti di un libro (<i>BLUNT 1954 -  The Drawings of G.B. Castiglione &amp; Stefano della Bella, in the Collection of Her Majesty the Queen at Windsor Castle</i>), di un articolo (<i>MASSAR 1968 - Presenting Stefano della Bella</i>), di un catalogo di mostra (<i>BJUSTRÖM, LOISEL, PILLIOD 2002 - Drawings in Swedish Italian Drawings, Florence, Siena, Modena, Bologna</i>), o di atti di un convegno (<i>RABEYROLLES-DESTAILLEUR 2006 - Hyppolite Destailleur (1822-1893)- architecte-collectionneur</i>).
+È tra l&#8217;altro questa stessa formula ad aprire il documento in caso si tratti di qualcosa che ho prodotto io stesso, di appunti presi da me, e la formula è poi seguita dal riferimento bibliografico completo del testo in questione. Completo, sì, perché è proprio al riferimento bibliografico abbreviato, <i>all&#8217;americana</i> che si rifà la formula che ho scelto, ma arricchita dal titolo del contributo, perché gli elementi che lo distinguono ed identificano siano di più e più evidenti.
+Riproporre all&#8217;inizio di un documento il riferimento bibliografico completo di quello che segue permette, in caso sia necessario, di potere copiare rapidamente l&#8217;indicazione per riutilizzarla là dove serve (se non si usano dei programmi, per gestire la bibliografia).</p>
+
+<p>Una soluzione semplice, che mi soddisfa. Quasi. Il problema non è tanto il fatto che non sia possibile, nei nomi dei documenti di Mac OS X, inserire i due punti (che andrebbero messi dopo le date di Destailleur, nel contributo segnalato sopra) e che ho deciso di sostituire con un trattino, quanto che non so come inserire delle parole chiave: voglio che siano nel titolo del documento e non nei metadati, affinché siano validi anche al di fuori del sistema operativo che uso al momento (una biblioteca si costruisce per la vita!). Avevo pensato, per un momento, di inserirle tra parentesi quadre, dopo il titolo, con abbreviazioni, se possibile: <i>[SBD]</i> per Stefano della Bella, <i>[LL]</i> per Lorenzo Lotto, <i>[Rosso]</i> per Giovanbattista Romolo di Jacopo di Guasparre, Rosso Fiorentino (e non dite che <i>Rosso</i> non è un&#8217;abbreviazione!) e via dicendo. Una soluzione che non mi ha convinto: in caso della Bella e Lotto siano nello stesso documento, dovrei scrivere <i>[LL, SDB]</i> o <i>[LL][SDB]</i>? Solo il secondo caso, infatti, mi garantisce la possibilità di potere ritrovare tutta la bibliografia di Lotto che ho cercando <i>[LL]</i> (e quindi di creare delle cartelle intelligenti con questo criterio). Oppure dovrei ispirarmi a Twitter ed adottare il diesis, <i>#LL#SDB</i>?</p>
+
+<p>Ricevo consigli ed idee con piacere: ancora mi interrogo, al riguardo la soluzione che mi piaccia ancora non l&#8217;ho trovata.</p>

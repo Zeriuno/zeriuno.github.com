@@ -1,0 +1,22 @@
+---
+layout: base
+title: Zeriuno - Storia dell'arte al tempo dei bit
+---
+		{% for post in site.posts limit:3 %}
+		<div>
+            <div>
+                <h2>
+                    <a href="{{ post.url }}" title="{{ post.title }}">
+                        {{ post.title }}
+                        </a>
+                </h2>
+                <span title="{{ post.date | date_to_xmlschema }}">
+                    <span class="pubblicato">Pubblicato il </span>
+                    <span class="giorno">{{ post.date | date: '%d' }}</span>
+                    <span class="mese"><abbr>{{ post.date | date: '%m' }}</abbr></span>
+                    <span class="anno">{{ post.date | date: '%Y' }}</span>
+                </span>
+                {{ post.content }}
+                </div>
+        </div>
+        {% endfor %}

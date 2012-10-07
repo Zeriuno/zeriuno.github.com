@@ -1,0 +1,21 @@
+---
+layout: page
+title : L'Indice cronologico di Zeriuno
+---
+		<div class="index">
+			<h2>Indice cronologico</h2>
+			<ul>
+			    {% for post in site.posts %}
+				<li>
+					<a href="{{ post.url }}" title="{{ post.title }}">
+						<span class="data">
+						<span class="giorno">{{ post.date | date: '%d' }}</span> 
+						<span class="mese"><abbr>{{ post.date | date: '%m' }}</abbr></span>
+						<span class="anno">{{ post.date | date: '%Y' }}</span>
+						</span>
+						{{ post.title }}
+						</a>
+				</li>
+                {% endfor %}
+			</ul>
+		</div> <!-- /.index -->
