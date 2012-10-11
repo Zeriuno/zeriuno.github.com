@@ -1,7 +1,7 @@
 /*I commenti in inglese sono di Simon Pascal Klein: klepas.org
 Sfondo: #ece8e4;
 blu di sfondo possibili 006e8a, #073642
-Lo sfondo del titolo, #f6f6f6, mi è stato suggerito da questo divertente articolo http://visualidiot.com/articles/fifty-shades
+Lo sfondo del titolo, #f6f6f6, il colore di data-indice, mi sono stati suggeriti da questo divertente articolo http://visualidiot.com/articles/fifty-shades
 */
 
 html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
@@ -51,7 +51,7 @@ body {
 }
 #colonna {
 height: 100%;
-width:80px;
+width:140px;
 display:block;
 float:left;
 margin:0;
@@ -59,6 +59,9 @@ background-color: #ece8e4;
 }
 .data {
   color: ;
+}
+.data-indice {
+  color: #ccc;
 }
 #icona {
     -moz-border-radius: 50% 50% 50% 50%;
@@ -68,13 +71,25 @@ background-color: #ece8e4;
     border: 1em solid white;
     display: block;
     max-width: 5em;
-    border-bottom: 0.5em solid #268bd2
+    border-bottom: 0.5em solid #268bd2;
 }
 #icona:hover {
     border: 1em solid #268bd2;
     border-bottom: 0.5em solid white;
     transition: color 1s;
     }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+}
+.logo-html5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 45px;
+}
 #pagina {
   width:960px; margin-left:auto; margin-right:auto;
   background-color: #ece8e4;
@@ -94,6 +109,10 @@ background-color: #ece8e4;
   padding-bottom: 15px;
   width: 740px;
 }
+#spazio-icona {
+    padding-top: 2.5em;
+    padding-bottom: 1.2em;
+}
 .testa-pezzo {
   background:#f6f6f6;
   height:60px;
@@ -107,7 +126,11 @@ background-color: #ece8e4;
   width: 700px;
 }
 .titolo {
-	'LinuxLibertine0Regular', Times;letter-spacing: 0;
 	text-transform: uppercase;
 	font-size: 18px;
+}
+#titolo-indice {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 22px;
 }
