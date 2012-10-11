@@ -50,12 +50,12 @@ body {
   width:740px; display:inline; float:right; margin-top:0.5em;
 }
 #colonna {
+background-color: #ece8e4;
+float:left;
 height: 100%;
 width:140px;
-display:block;
-float:left;
 margin:0;
-background-color: #ece8e4;
+padding-left: 1.2em;
 }
 .data {
   color: ;
