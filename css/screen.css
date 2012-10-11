@@ -1,6 +1,7 @@
 /*I commenti in inglese sono di Simon Pascal Klein: klepas.org
 Sfondo: #ece8e4;
 blu di sfondo possibili 006e8a, #073642
+Lo sfondo del titolo, #f6f6f6, mi è stato suggerito da questo divertente articolo http://visualidiot.com/articles/fifty-shades
 */
 
 html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
@@ -56,6 +57,9 @@ float:left;
 margin:0;
 background-color: #ece8e4;
 }
+.data {
+  color: ;
+}
 #icona {
     -moz-border-radius: 50% 50% 50% 50%;
     -webkit-border-radius: 50% 50% 50% 50%;
@@ -87,14 +91,20 @@ background-color: #ece8e4;
   margin-bottom: 20px;
   text-align: justify;
   text-justify: newspaper;
+  padding-bottom: 15px;
+  width: 740px;
 }
 .testa-pezzo {
-  background:#ece8e4;
+  background:#f6f6f6;
   height:60px;
   padding-left:20px;
   padding-top: 5px;
   display:block;
   line-height: 0.75;
+}
+.testo-articolo {
+  margin-left: 20px;
+  width: 700px;
 }
 .titolo {
 	'LinuxLibertine0Regular', Times;letter-spacing: 0;

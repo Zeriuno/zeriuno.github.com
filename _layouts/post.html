@@ -2,7 +2,7 @@
 layout: base
 ---
         {% include testata.html %}
-		<div>
+            <div id="articoli">
 			<div>
                 {% if page.previous %}
 				    <span class="page-nav-item floatLeft"><a class="internal" rel="prev"  href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}">&larr; L'articolo precedente</a></span>
@@ -11,18 +11,24 @@ layout: base
 				    <span class="page-nav-item floatRight"><a class="internal" rel="next"  href="{{ page.next.url }}" title="Leggi {{ page.next.title }}">L'articolo successivo &rarr;</a></span>
                 {% endif %}
             </div>
-            <div>
-                <h2>{{ page.title }}</h2>
-                <span class="date" title="{{ page.date | date_to_xmlschema }}">
+            <div class="pezzo">
+	            <div class="testa-pezzo">
+	            	<h2 class="titolo">
+	                	<a href="{{ post.url }}" title="{{ post.title }}">{{ page.title }}</a>	                
+                	</h2>
+                	<span class="date" title="{{ page.date | date_to_xmlschema }}">
                     <span class="pubblicato-il">Pubblicato il</span>
                     <span class="giorno">{{ page.date | date: '%d' }}</span>
                     .
                     <span class="mese"><abbr>{{ page.date | date: '%m' }}</abbr></span>
                     .
                     <span class="anno">{{ page.date | date: '%Y' }}</span>
-                </span>
+                	</span>
+                </div> <!-- testata-pezzo-->
+	            <div class="testo-articolo">
                 {{ content }}
-            </div>
+                </div><!--testo-articolo-->
+            </div><!-- pezzo-->
             <div class="page-nav-bottom">
                 {% if post.previous %}
                     <a rel="prev"  href="{{ post.previous.url }}" title="Leggi {{ post.previous.title }}">&larr; L'articolo precedente</a>
@@ -30,5 +36,5 @@ layout: base
                 {% if post.next %}
                     <a rel="next"  href="{{ post.next.url }}" title="Leggi {{ post.next.title }}">L'articolo successivo &rarr;</a>
                 {% endif %}
-            </div>
-        </div>
+            </div><!-- pezzo-->
+        </div><!-- articoli-->
