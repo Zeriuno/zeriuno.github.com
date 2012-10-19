@@ -1,4 +1,4 @@
-jpg--- 
+--- 
 title: "Cataloghi in linea si rinnovano: OPAC SBN (e Europeana)"
 layout: post
 status: publish
