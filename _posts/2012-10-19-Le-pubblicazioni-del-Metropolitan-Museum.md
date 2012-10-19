@@ -8,7 +8,7 @@ tags:
 type: post
 published: true
 ---
-Dopo avere rifatto il suo sito internet e [fortemente potenziato][1] gli strumenti del catalogo in linea, il <span lang="en">Metropolitan Museum</span> ha recentemente messo a disposizione una nuova risorsa molto interessante, come [già segnalato][2] da [più parti][3]. Per chi non ne fosse già al corrente grazie agli articoli segnalati, questo è il portale [<span lang="en">MetPublications</span>][7], reso possibile da <span lang="en">Hunt</span> e <span lang="en">Betsy Lawrence</span> nel suo [*autoritratto*][4]:
+Dopo avere rifatto il suo sito internet e [fortemente potenziato][1] gli strumenti del catalogo in linea, il <span lang="en">Metropolitan Museum</span> ha recentemente messo a disposizione una nuova risorsa molto interessante, come [già segnalato][2] da [più parti][3]. Per chi non ne fosse già al corrente grazie agli articoli segnalati, questo è il portale [<span lang="en">MetPublications</span>][7] stando al suo [*autoritratto*][4]:
 
 ><span lang="en">MetPublications is a portal to the Met’s comprehensive publishing program. Beginning with nearly 650 titles published from 1964 to the present, this resource will continue to expand and could eventually offer access to nearly all books, Bulletins, and Journals published by the Metropolitan Museum since the Met's founding in 1870. It will also include online publications.</span>
 
@@ -19,6 +19,9 @@ Dopo avere rifatto il suo sito internet e [fortemente potenziato][1] gli strumen
 ><span lang="en">Readers are also directed to every title located in library catalogues on WATSONLINE and WorldCat.</span>
  
 ><span lang="en">Please check back frequently for updates and new book titles.</span>
+
+><span lang="en">MetPublications is made possible by Hunt and Betsy Lawrence.</span>
+
 
 Possiamo considerare [<span lang="en">MetPublications</span>][7] come uno scaffale che riunisce le pubblicazioni del <span lang="en">Metropolitan Museum</span>, da scorrere con lo sguardo, nella speranza di trovare un dorso sul quale soffermarsi, ed un libro grazie al quale scoprire qualcosa di nuovo.
 
