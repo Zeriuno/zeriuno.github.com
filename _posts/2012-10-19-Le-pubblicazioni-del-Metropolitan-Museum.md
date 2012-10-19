@@ -43,7 +43,7 @@ Ciò non ostante, [<span lang="en">MetPublications</span>][7] è un'ottima risor
 
 ><span lang="en">The Met's print and online publications program will continue to expand in scope in order to reach the broadest possible audience, thus fulfilling its mission to increase public awareness of and appreciation for art, presenting insightful scholarly discussions and diverse Museum voices on works of art, art history, and especially the Museum's collections and exhibitions.</span>
 
-Approfittando di <span lang="en">MetPublications</span> non resta che sperare che susciti numerosi e validi emuli!
+Approfittando di <span lang="en">MetPublications</span> non resta che sperare che susciti numerosi e validi emuli.
 
 [1]:/2011/11/01/cataloghi-in-linea-si-rinnovano-ii-plauso-al-metropolitan-museum.html "Qui su Zeriuno"
 [2]:http://www.latribunedelart.com/le-metropolitan-museum-propose-ses-publications-epuisees-en-telechargement-gratuit-article004032.html "La Tribune de l'art, in francese"
