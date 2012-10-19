@@ -10,17 +10,17 @@ published: true
 ---
 Dopo avere rifatto il suo sito internet e [fortemente potenziato][1] gli strumenti del catalogo in linea, il <span lang="en">Metropolitan Museum</span> ha recentemente messo a disposizione una nuova risorsa molto interessante, come [già segnalato][2] da [più parti][3]. Per chi non ne fosse già al corrente grazie agli articoli segnalati, questo è il portale [<span lang="en">MetPublications</span>][7] nel suo [*autoritratto*][4]:
 
-><span lang="en">MetPublications is a portal to the Met’s comprehensive publishing program. Beginning with nearly 650 titles published from 1964 to the present, this resource will continue to expand and could eventually offer access to nearly all books, Bulletins, and Journals published by the Metropolitan Museum since the Met's founding in 1870. It will also include online publications.
+<blockquote lang="en">MetPublications is a portal to the Met’s comprehensive publishing program. Beginning with nearly 650 titles published from 1964 to the present, this resource will continue to expand and could eventually offer access to nearly all books, Bulletins, and Journals published by the Metropolitan Museum since the Met's founding in 1870. It will also include online publications.
 
->MetPublications includes a description and table of contents for almost every title, as well as information about the authors, reviews, awards, and links to related Met bibliographies by author, theme, or keyword. Current titles that are in-print may be previewed and fully searched online, with a link to purchase the book. The full contents of almost all other titles may be read online, searched, or downloaded as a PDF, at no cost. Books can be previewed or read and searched through the Google Books program. Many out-of-print books are available for purchase, when rights permit, through print-on-demand capabilities in association with Yale University Press.
+MetPublications includes a description and table of contents for almost every title, as well as information about the authors, reviews, awards, and links to related Met bibliographies by author, theme, or keyword. Current titles that are in-print may be previewed and fully searched online, with a link to purchase the book. The full contents of almost all other titles may be read online, searched, or downloaded as a PDF, at no cost. Books can be previewed or read and searched through the Google Books program. Many out-of-print books are available for purchase, when rights permit, through print-on-demand capabilities in association with Yale University Press.
 
->Readers may also locate works of art from the Met's collections that are included within each title and access the most recent information about these works in Collections.
+Readers may also locate works of art from the Met's collections that are included within each title and access the most recent information about these works in Collections.
 
->Readers are also directed to every title located in library catalogues on WATSONLINE and WorldCat.
+Readers are also directed to every title located in library catalogues on WATSONLINE and WorldCat.
 
->Please check back frequently for updates and new book titles.
+Please check back frequently for updates and new book titles.
 
->MetPublications is made possible by Hunt & Betsy Lawrence.</span>
+MetPublications is made possible by Hunt & Betsy Lawrence.</blockquote>
 
 [<span lang="en">MetPublications</span>][7] può essere considerato come uno scaffale che riunisce le pubblicazioni del <span lang="en">Metropolitan Museum</span>, da scorrere con lo sguardo, nella speranza di trovare un dorso sul quale soffermarsi, ed un libro grazie al quale scoprire qualcosa di nuovo.
 
