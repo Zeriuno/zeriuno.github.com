@@ -1,9 +1,10 @@
 --- 
-title: "I problemi con il <abb title="Portable Document Format" lang="en">PDF</abbr>"
+title: "I problemi con il PDF"
 layout: post
 status: publish
 tags:
-date:2012-11-14
+- Gestione documenti
+- 
 type: post
 published: true
 ---
