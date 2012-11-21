@@ -134,6 +134,7 @@ img {
 .titolo {
 	text-transform: uppercase;
 	font-size: 18px;
+	line-height: 120%;
 }
 #titolo-indice {
   text-transform: uppercase;
