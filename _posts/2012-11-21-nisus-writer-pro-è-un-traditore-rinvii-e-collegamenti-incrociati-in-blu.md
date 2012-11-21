@@ -18,7 +18,7 @@ Il difetto senza dubbio maggiore è quello più nascosto, ed emerge solo al mome
 
 I passaggi necessari sono pochi, si fanno percorrendo la finestra del documento dall'alto verso il basso, nelle aree inquadrate di verde.
 
-<img src"/immagini/nisuspdf1.gif" title"Cambiare i rinvii, primo passo">
+<img title="Cambiare i rinvii, primo passo" src="/immagini/nisuspdf1.gif" alt="">
 
 * Visualizzare il foglio di stile del documento (in alto a sinistra, terzo bottone da sinistra).
 * Premere sulla voce *Collegamento PDF - Riferimento incrociato*
@@ -26,7 +26,7 @@ I passaggi necessari sono pochi, si fanno percorrendo la finestra del documento 
 * Usare la combinazione *control clic*
 * Selezionare dal menù contestuale la voce <span lang="en">Font</span> e poi *Mostra colori testo*
 
-<img src"/immagini/nisuspdf2.gif" title"Cambiare i rinvii, secondo passo">
+<img title="Cambiare i rinvii, secondo passo" src="/immagini/nisuspdf2.gif" alt="">
 
 A questo punto il più è fatto: resta solo da spostare verso il fondo il cursore della finestra che si apre, per ottenere un banale ed anonimo nero.
 
