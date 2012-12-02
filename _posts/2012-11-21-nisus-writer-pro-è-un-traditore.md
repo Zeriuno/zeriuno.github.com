@@ -1,5 +1,5 @@
 --- 
-title: Nisus Writer Pro è un traditore
+title: Nisus Writer Pro &egrave; un traditore
 layout: post
 date: 2012-11-21
 status: publish
