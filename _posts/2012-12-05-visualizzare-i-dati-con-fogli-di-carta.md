@@ -7,8 +7,8 @@ tags:
 - Dati
 type: post
 published: true
-
---- La carta è uno strumento vecchio, ma non obsoleto. La frase è di David Bosman, che chiudeva così il resoconto di un intervento per aiutare un amico autore ad uscire da un momento di stallo ([qui][1]).
+---
+ La carta è uno strumento vecchio, ma non obsoleto. La frase è di David Bosman, che chiudeva così il resoconto di un intervento per aiutare un amico autore ad uscire da un momento di stallo ([qui][1]).
 
 ><span lang="fr">Imprime tout le truc et étale-le sur une table ou par terre. Même si ça veut dire imprimer cent pages ou plus, tant pis. Une fois imprimé, tu vois ton texte, tu vois chaque page individuellement et toutes les pages à la fois en même temps. Tu les as sous les yeux, tu les domines. Tu peux passer de l’une à l’autre d’un simple coup d’oeil. Tu peux comparer entre elles des pages qui sont très éloignées les unes des autres (quelque chose de presque impossible à faire confortablement sur un écran). Tu peux les annoter, les raturer. Tu peux les réorganiser. C’est ton champ de bataille que tu survoles, comme un général regarde une carte d’état-major, sur laquelle il déplace ses troupes et modifie ses plans selon les circonstances.</span>
 
