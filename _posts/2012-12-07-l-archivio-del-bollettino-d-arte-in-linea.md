@@ -7,7 +7,7 @@ tags:
 - Risorse
 type: post
 published: true
---- 
+---
 Da qualche mese guardavo con un po' d'astio una sezione del sito del Bollettino d'Arte. Non ne ho più motivo, e non solo perché l'annuncio che i lavori in corso per la costituzione dell'archivio digitale della rivista sono conclusi, ma anche perché il risultato è lodevole: la prima serie del periodico è [in linea e scaricabile][1]. Lo strumento di ricerca del sito sembra funzionare ed i pdf messi a disposizione sono in formato testo. Solo la prima parte del titolo dei documenti mi causa qualche interrogazione, cercando di capire quale criterio è stato usato ([i miei sono questi][2]) per generare questa sfilza di numeri
 >1347022523267_5_-_Gino_Fogolari_p.23.pdf
 
