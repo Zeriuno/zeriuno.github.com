@@ -13,10 +13,11 @@ Da qualche mese guardavo con un po' d'astio una sezione del sito del Bollettino 
 
 Complimenti quindi al Bollettino d'Arte, sperando che questo slancio possa proseguire mettendo a termine a disposizione del pubblico tutti i numeri non più acquistabili rendendo accessibile su internet l'archivio completo della rivista (tanto più che recentemente l'archivio fisico è stato in buona parte [alleggerito][5], cedendo gli ultimi esemplari conservati di numeri della quarta serie).
 
-Fatto questo mancherà solo un ultimo sforzo al periodico per essere sinceramente encomiabile: preoccuparsi dell'accessibilità (come lo prescrive la legge Stanca). Non nominalmente, tramite [una dichiarazione][3] non accurata al riguardo, ma prendendo le misure necessarie. Correggendo i numerosi errori del codice del sito (possono essere verificati dal [Validatore del W3C][4]) ed utilizzando correttamente l'attributo lang per segnalare le parole non italiane. Ad esempio: <span lang="en">Digital Library</span>, che l'espressione <i>Archivio digitale</i>, in questa pagina dovrebbe essere identificato da *lang="en"*, basta aggiungerlo qui, subito prima della chiusura della parentesi uncinata:
+Fatto questo mancherà solo un ultimo sforzo al periodico per essere sinceramente encomiabile: preoccuparsi dell'accessibilità (come lo prescrive la legge Stanca). Non nominalmente, tramite [una dichiarazione][3] non accurata al riguardo, ma prendendo le misure necessarie. Correggendo i numerosi errori del codice del sito (possono essere verificati dal [Validatore del W3C][4]) ed utilizzando correttamente l'attributo lang per segnalare le parole non italiane. Ad esempio: <span lang="en">Digital Library</span>, che l'espressione <i>Archivio digitale</i>, in questa pagina dovrebbe essere identificato da *lang="en"*, basta aggiungerlo proprio alla fine di questa porzione del codice:
 
-<code><a href="http://www.bollettinodarte.beniculturali.it/opencms/export/BollettinoArteIt/sito-BollettinoArteIt/Contributi/Editoria/BollettinoArte/Fascicoli/visualizza_asset.html_1283592443.html"></code>
+a href="http://www.bollettinodarte.beniculturali.it/opencms/export/BollettinoArteIt/sito-BollettinoArteIt/Contributi/Editoria/BollettinoArte/Fascicoli/visualizza_asset.html_1283592443.html" **QUI**.
 
+Manca così poco per completare un buon lavoro che sarebbe un peccato non farlo.
 
 [1]:http://www.bollettinodarte.beniculturali.it/opencms/export/BollettinoArteIt/sito-BollettinoArteIt/MenuPrincipale/DigitalLibrary/index.html "Sul sito della rivista"
 [2]:/2011/12/07/anagrafe-dei-bit-nominare-il-materiale-bibliografico.html "Anagrafe dei bit"
