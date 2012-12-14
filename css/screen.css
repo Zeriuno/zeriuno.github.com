@@ -127,7 +127,7 @@ img {
     clear both;
     height: 200px;
     /*margin-top: -200px;*/
-    position: relative;
+    position: fixed;
     text-transform: uppercase;
 }
 #spazio-icona {
