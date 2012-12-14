@@ -126,7 +126,7 @@ img {
     bottom: 0px;
     height: 2em;
     padding-right: 0;
-    position: relative;
+/*    position: relative;*/
     text-transform: uppercase;
     width: 100%;
 }
