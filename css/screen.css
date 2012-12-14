@@ -129,6 +129,7 @@ img {
     /*margin-top: -200px;*/
     position: fixed;
     text-transform: uppercase;
+    width: 100%;
 }
 #spazio-icona {
     padding-top: 2.5em;
