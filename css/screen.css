@@ -126,6 +126,7 @@ img {
     background-color: #fdc026;
     bottom: 0px;
     height: 4em;
+    padding-bottom 0.5em;
     padding-right: 0;
     position: fixed;
     text-transform: uppercase;
