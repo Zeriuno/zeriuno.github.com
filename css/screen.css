@@ -70,17 +70,6 @@ padding-left: 1.2em;
 .data-indice {
   color: #ccc;
 }
-/*il footer è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
-footer {
-    align: center;
-    background-color: #fdc026;
-    clear both;
-    height: 5em;
-    margin-top: -5em;
-    position: relative;
-    text-transform: uppercase;
-}
-
 #icona {
     -moz-border-radius: 50% 50% 50% 50%;
     -webkit-border-radius: 50% 50% 50% 50%;
@@ -129,6 +118,16 @@ img {
   text-justify: newspaper;
   padding-bottom: 15px;
   width: 740px;
+}
+/*il piede è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
+#piede {
+    align: center;
+    background-color: #fdc026;
+    clear both;
+    height: 5em;
+    margin-top: -5em;
+    position: relative;
+    text-transform: uppercase;
 }
 #spazio-icona {
     padding-top: 2.5em;
