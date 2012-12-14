@@ -33,17 +33,23 @@ a:hover {
 abbr {
   border-width: 0px;
 }
+#articoli {
+  display:inline;
+  float:right;
+  margin-top:0.5em;
+  overflow: auto;
+  padding-bottom: 5em;
+  width:740px;
+}
 body {
   margin: 0;
-	font-family: Georgia, "DejaVu Serif", Times, "Times New Roman", serif;
-	font-size: 85%; /* Resets UA 16px common default such that 1em = 10px. Kudos to Richard Rutter. */
-	line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
-	color: #111;
+  font-family: Georgia, "DejaVu Serif", Times, "Times New Roman", serif;
+  font-size: 85%; /* Resets UA 16px common default such that 1em = 10px. Kudos to Richard Rutter. */
+  height: 100%;
+  line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
+  color: #111;
   background-color: #ece8e4;
 	}
-#articoli {
-  width:740px; display:inline; float:right; margin-top:0.5em;
-}
 #colonna {
 background-color: #ece8e4;
 float:left;
@@ -64,11 +70,17 @@ padding-left: 1.2em;
 .data-indice {
   color: #ccc;
 }
+/*il footer è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
 footer {
-    align: center:
+    align: center;
     background-color: #fdc026;
+    clear both;
+    height: 5em;
+    margin-top: -5em;
+    position: relative;
     text-transform: uppercase;
 }
+
 #icona {
     -moz-border-radius: 50% 50% 50% 50%;
     -webkit-border-radius: 50% 50% 50% 50%;
@@ -97,7 +109,10 @@ img {
   padding-top: 45px;
 }
 #pagina {
-  width:960px; margin-left:auto; margin-right:auto;
+  width:960px;
+  margin-left:auto;
+  margin-right:auto;
+  min-height: 100%;
   background-color: #ece8e4;
 }
 .pezzo {
