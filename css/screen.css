@@ -54,11 +54,12 @@ body {
 background-color: #ece8e4;
 float:left;
 height: 100%;
-width:140px;
+line-height: 1.8em;
 margin:0;
 padding-bottom: 3em;
 padding-left: 1.2em;
 position: fixed;
+width:140px;
 }
 /*.colonna-link {
 
