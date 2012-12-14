@@ -38,7 +38,7 @@ abbr {
   float:right;
   margin-top:0.5em;
   overflow: auto;
-  padding-bottom: 5em;
+  padding-bottom: 200px;
   width:740px;
 }
 body {
@@ -124,8 +124,8 @@ img {
     align: center;
     background-color: #fdc026;
     clear both;
-    height: 5em;
-    margin-top: -5em;
+    height: 200px;
+    margin-top: -200px;
     position: relative;
     text-transform: uppercase;
 }
