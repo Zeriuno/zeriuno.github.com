@@ -123,7 +123,7 @@ img {
   width: 740px;
 }
 /*il piede è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
-.footer {
+#piede {
     background-color: #fdc026;
     bottom: 0px;
     height: 10%;
