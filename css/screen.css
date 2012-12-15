@@ -129,8 +129,10 @@ img {
     height: 10%;
     padding-bottom 0.5em;
     position: fixed;
-    text-transform: uppercase;
     width: 100%;
+}
+#piede-titolo {
+        text-transform: uppercase;
 }
 #spazio-icona {
     padding-top: 2.5em;
