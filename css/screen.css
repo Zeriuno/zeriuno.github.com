@@ -123,13 +123,13 @@ img {
   width: 740px;
 }
 /*il piede è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
-#piede {
+.footer {
     align: center;
     background-color: #fdc026;
     bottom: 0px;
     height: 10%;
     padding-bottom 0.5em;
-    position: relative;
+    position: fixed;
     text-transform: uppercase;
     width: 100%;
 }
