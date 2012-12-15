@@ -124,7 +124,6 @@ img {
 }
 /*il piede è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
 .footer {
-    align: center;
     background-color: #fdc026;
     bottom: 0px;
     height: 10%;
