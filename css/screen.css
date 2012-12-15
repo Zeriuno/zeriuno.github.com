@@ -6,7 +6,7 @@ Lo sfondo del titolo, #f6f6f6, il colore di data-indice, mi sono stati suggeriti
 
 html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
 
-@font-face {
+/*@font-face {
     font-family: 'LinuxLibertineORegular';
     src: url('/tipografia/LinLibertine_R-webfont.eot');
     src: url('/tipografia/LinLibertine_R-webfont.eot?#iefix') format('embedded-opentype'),
@@ -16,7 +16,7 @@ html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
     font-weight: normal;
     font-style: normal;
 
-}
+}*/
 a {
   color: #268bd2;
   text-decoration: none;
@@ -60,6 +60,17 @@ padding-bottom: 3em;
 padding-left: 1.2em;
 position: fixed;
 width:140px;
+}
+/* i due prossimi paragrafi li ho copiati da http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/ */
+#colonna ul {
+margin:0;
+padding:0;
+list-style:none;
+}
+#colonna li {
+display:inline;
+margin:0;
+padding:0;
 }
 /*.colonna-link {
 
