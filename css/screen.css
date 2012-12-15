@@ -129,7 +129,7 @@ img {
     bottom: 0px;
     height: 10%;
     padding-bottom 0.5em;
-    position: fixed;
+    position: relative;
     text-transform: uppercase;
     width: 100%;
 }
