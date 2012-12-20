@@ -135,7 +135,6 @@ img {
   text-justify: newspaper;
   padding-bottom: 15px;
 }
-/*il piede è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
 #piede {
     background-color: #002b36;
     bottom: 0px;
@@ -145,6 +144,9 @@ img {
     padding 0;
     position: relative;
     width: 100%;
+}
+#piede p {
+    position: center;
 }
 #piede-titolo {
         text-transform: uppercase;
