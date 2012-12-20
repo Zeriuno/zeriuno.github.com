@@ -36,7 +36,7 @@ abbr {
     margin-top:0.5em;
     overflow: auto;
     padding: 10px;
-    width:580px;
+    width:750px;
 }
 body {
     margin:0;
@@ -50,8 +50,9 @@ body {
     padding-bottom: 3em;
     padding-left: 0;
     padding-right: 30px;
-    position: relative;
-    width:110px;
+    position: relative
+    ;
+    width:100px;
 }
 /* i due prossimi paragrafi li ho copiati da http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/ */
 #colonna ul {
@@ -163,7 +164,6 @@ img {
 }
 .testo-articolo {
     margin-left: 20px;
-    width: 540px;
 }
 .titolo {
     text-transform: uppercase;
@@ -175,6 +175,6 @@ img {
   font-size: 22px;
 }
 #tutto {
-    width:750px;
+    width:850px;
     margin:0 auto;
 }
