@@ -57,7 +57,6 @@ body {
     margin:0;
     padding:10px;
     list-style:none;
-    width:230px;
 }
 #colonna li {
     margin:0;
@@ -174,6 +173,6 @@ img {
   font-size: 22px;
 }
 #tutto {
-    width:7500px;
+    width:750px;
     margin:0 auto;
 }
