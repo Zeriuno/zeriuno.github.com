@@ -39,6 +39,7 @@ abbr {
     width:480px;
 }
 body {
+    margin-bottom:0;
 }
 #colonna {
     background-color: #ece8e4;
@@ -81,6 +82,7 @@ html {
     margin:0;
     overflow-y: scroll; /* Fixes Firefox scrollbar jump */
     padding:0;
+    margin-bottom:0;
 }
 #icona {
     -moz-border-radius: 50% 50% 50% 50%;
