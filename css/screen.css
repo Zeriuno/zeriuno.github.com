@@ -142,7 +142,7 @@ img {
     clear:both;
     height: 1em;
     padding-bottom 0.5em;
-    position: fixed;
+    position: relative;
     width: 100%;
 }
 #piede-titolo {
