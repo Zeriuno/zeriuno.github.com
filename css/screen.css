@@ -20,23 +20,23 @@ a {
   text-decoration: none;
 } 
 a:hover {
-  -moz-transition: color 0.5s, -moz-background 0.5s;
-  -o-transition: color 0.5s, -o-background 0.5s;
-  -webkit-transition: color 0.5s, -webkit-background 0.5s;
-  transition: color 0.5s, background 0.5s;
-  background: #268bd2;
-  color: white;
-  transition: color .5s;
+    -moz-transition: color 0.5s, -moz-background 0.5s;
+    -o-transition: color 0.5s, -o-background 0.5s;
+    -webkit-transition: color 0.5s, -webkit-background 0.5s;
+    transition: color 0.5s, background 0.5s;
+    background: #268bd2;
+    color: white;
+    transition: color .5s;
 }
 abbr {
   border-width: 0px;
 }
 #area-articoli {
-  float:right;
-  margin-top:0.5em;
-  overflow: auto;
-  padding-bottom: 4em;
-  width:750px;
+    float:right;
+    margin-top:0.5em;
+    overflow: auto;
+    padding: 10px;
+    width:480px;
 }
 body {
 }
@@ -55,8 +55,9 @@ body {
 /* i due prossimi paragrafi li ho copiati da http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/ */
 #colonna ul {
     margin:0;
-    padding:0;
+    padding:10px;
     list-style:none;
+    width:230px;
 }
 #colonna li {
     margin:0;
@@ -178,6 +179,6 @@ img {
   font-size: 22px;
 }
 #tutto {
-    width:960px;
+    width:7500px;
     margin:0 auto;
 }
