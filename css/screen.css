@@ -118,18 +118,18 @@ img {
   background-color: #ece8e4;
 }
 .pezzo {
-  -moz-border-radius-bottomright: 8px;  
-  border-bottom-right-radius: 8px;
-  -moz-border-radius-bottomleft: 8px;
-  border-bottom-left-radius: 8px;  
-  -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
-  -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
-  box-shadow: 0 1px 8px rgba(0,0,0,0.15);
-  background-color: white;
-  margin-bottom: 20px;
-  text-align: justify;
-  text-justify: newspaper;
-  padding-bottom: 15px;
+    -moz-border-radius-bottomright: 8px;  
+    border-bottom-right-radius: 8px;
+    -moz-border-radius-bottomleft: 8px;
+    border-bottom-left-radius: 8px;  
+    -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+    background-color: white;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-justify: newspaper;
+    padding-bottom: 15px;
 }
 #piede {
     background-color: #004a63;
@@ -139,6 +139,7 @@ img {
     height: 4em;
     padding 0;
     position: relative;
+    text-align: center;
     width: 100%;
 }
 #piede p {
