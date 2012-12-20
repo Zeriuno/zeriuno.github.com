@@ -4,8 +4,6 @@ blu di sfondo possibili 006e8a, #073642
 Lo sfondo del titolo, #f6f6f6, il colore di data-indice, mi sono stati suggeriti da questo divertente articolo http://visualidiot.com/articles/fifty-shades
 */
 
-html { overflow-y: scroll; } /* Fixes Firefox scrollbar jump */
-
 /*@font-face {
     font-family: 'LinuxLibertineORegular';
     src: url('/tipografia/LinLibertine_R-webfont.eot');
@@ -33,23 +31,15 @@ a:hover {
 abbr {
   border-width: 0px;
 }
-#articoli {
-  display:inline;
+#area-articoli {
   float:right;
   margin-top:0.5em;
   overflow: auto;
   padding-bottom: 4em;
-  width:740px;
+  width:750px;
 }
 body {
-  margin: 0;
-  font-family: Georgia, "DejaVu Serif", Times, "Times New Roman", serif;
-  font-size: 85%; /* Resets UA 16px common default such that 1em = 10px. Kudos to Richard Rutter. */
-  height: 100%;
-  line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
-  color: #111;
-  background-color: #ece8e4;
-	}
+}
 #colonna {
 background-color: #ece8e4;
 float:left;
@@ -68,7 +58,6 @@ padding:0;
 list-style:none;
 }
 #colonna li {
-display:inline;
 margin:0;
 padding:0;
 }
@@ -83,6 +72,20 @@ padding:0;
 }
 .data-indice {
   color: #ccc;
+}
+h1 {
+    margin:0;
+}
+h2 {
+    margin:0 0 1em;
+}
+html {
+    background-color: #ece8e4;
+    color: #111;
+    line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
+    margin:0;
+    overflow-y: scroll; /* Fixes Firefox scrollbar jump */
+    padding:0;
 }
 #icona {
     -moz-border-radius: 50% 50% 50% 50%;
@@ -131,13 +134,13 @@ img {
   text-align: justify;
   text-justify: newspaper;
   padding-bottom: 15px;
-  width: 740px;
 }
 /*il piede è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
 #piede {
     background-color: #fdc026;
     bottom: 0px;
-    height: 10%;
+    clear:both;
+    height: 1em;
     padding-bottom 0.5em;
     position: fixed;
     width: 100%;
@@ -169,4 +172,8 @@ img {
   text-transform: uppercase;
   text-align: center;
   font-size: 22px;
+}
+#tutto {
+    width:960px;
+    margin:0 auto;
 }
