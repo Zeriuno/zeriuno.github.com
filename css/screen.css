@@ -137,9 +137,10 @@ img {
 }
 /*il piede è stato realizzato seguendo le istruzioni di http://www.cssstickyfooter.com */
 #piede {
-    background-color: #fdc026;
+    background-color: #002b36;
     bottom: 0px;
     clear:both;
+    color:white;
     height: 4em;
     padding-bottom 0.5em;
     position: relative;
@@ -153,19 +154,19 @@ img {
     padding-bottom: 1.2em;
 }
 .testa-pezzo {
-  background:#f6f6f6;
-  height:60px;
-  padding-left:20px;
-  padding-top: 5px;
-  display:block;
-  line-height: 0.75;
+    background:#f6f6f6;
+    height:60px;
+    padding-left:20px;
+    padding-top: 5px;
+    display:block;
+    line-height: 0.75;
 }
 .testo-articolo {
-  margin-left: 20px;
-  width: 700px;
+    margin-left: 20px;
+    width: 700px;
 }
 .titolo {
-	text-transform: uppercase;
+    text-transform: uppercase;
 	font-size: 18px;
 }
 .titolo-indice {
