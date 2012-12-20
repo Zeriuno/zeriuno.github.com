@@ -50,7 +50,7 @@ body {
     padding-left: 0;
     padding-right: 30px;
     position: fixed;
-    width:140px;
+    width:210px;
 }
 /* i due prossimi paragrafi li ho copiati da http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/ */
 #colonna ul {
@@ -104,10 +104,10 @@ html {
     transition: color 1s;
     }
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
 }
 .logo-html5 {
   display: block;
