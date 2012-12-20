@@ -159,11 +159,10 @@ img {
 }
 .testa-pezzo {
     background:#f6f6f6;
-    height:60px;
     padding-left:20px;
     padding-top: 5px;
     display:block;
-    line-height: 0.75;
+    line-height: 1.35;
 }
 .testo-articolo {
     margin-left: 20px;
