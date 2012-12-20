@@ -138,6 +138,7 @@ img {
     color:white;
     height: 6em;
     padding 0;
+    padding-bottom:0;
     position: relative;
     text-align: center;
     width: 100%;
