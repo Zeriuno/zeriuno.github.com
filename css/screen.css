@@ -50,7 +50,7 @@ body {
     padding-bottom: 3em;
     padding-left: 0;
     padding-right: 30px;
-    position: fixed;
+    position: relative;
     width:110px;
 }
 /* i due prossimi paragrafi li ho copiati da http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/ */
