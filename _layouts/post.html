@@ -31,10 +31,10 @@ layout: base
             </div><!-- pezzo-->
             <div class="page-nav-bottom">
                 {% if post.previous %}
-                    <a rel="prev"  href="{{ post.previous.url }}" title="Leggi {{ post.previous.title }}">&larr; L'articolo precedente</a>
+                    <span class="sinistra"><a href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}">&larr; L'articolo precedente</a></span>
                 {% endif %}
                 {% if post.next %}
-                    <a rel="next"  href="{{ post.next.url }}" title="Leggi {{ post.next.title }}">L'articolo successivo &rarr;</a>
+                    <span class="destra"><a href="{{ page.next.url }}" title="Leggi {{ page.next.title }}">L'articolo successivo &rarr;</a></span>
                 {% endif %}
                 <script><!-- commenti-->
 var idcomments_acct = '793549c074a634022fb854e2453f6543';
