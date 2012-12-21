@@ -77,7 +77,7 @@ body {
     color: #ccc;
 }
 .destra {
-    text-align:destra;
+    position:right;
 }
 html {
     background-color: #ece8e4;
@@ -155,7 +155,7 @@ img {
         text-transform: uppercase;
 }
 .sinistra {
-    text-align:left;
+    position:left;
 }
 #spazio-icona {
     padding-top: 2.5em;
