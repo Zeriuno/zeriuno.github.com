@@ -76,6 +76,9 @@ body {
 .data-indice {
     color: #ccc;
 }
+.destra {
+    text-align:destra;
+}
 html {
     background-color: #ece8e4;
     color: #111;
@@ -150,6 +153,9 @@ img {
 }
 #piede-titolo {
         text-transform: uppercase;
+}
+.sinistra {
+    text-align:left;
 }
 #spazio-icona {
     padding-top: 2.5em;

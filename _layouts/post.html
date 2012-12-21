@@ -5,10 +5,10 @@ layout: base
             <div id="articoli">
 			<div>
                 {% if page.previous %}
-				    <span class="page-nav-item floatLeft"><a class="internal" rel="prev"  href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}">&larr; L'articolo precedente</a></span>
+				    <span class="sinistra"><a href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}">&larr; L'articolo precedente</a></span>
 				{% endif %}
 				{% if page.next %}
-				    <span class="page-nav-item floatRight"><a class="internal" rel="next"  href="{{ page.next.url }}" title="Leggi {{ page.next.title }}">L'articolo successivo &rarr;</a></span>
+				    <span class="destra"><a href="{{ page.next.url }}" title="Leggi {{ page.next.title }}">L'articolo successivo &rarr;</a></span>
                 {% endif %}
             </div>
             <div class="pezzo">

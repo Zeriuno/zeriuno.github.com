@@ -27,6 +27,12 @@
 				<div id="area-articoli">
 					{{ content }}
 				</div> <!-- area-articoli -->
+                <div>
+                {% if page.previous %}
+				    <span class="sinistra"><a href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}">&larr; L'articolo precedente</a></span>
+				{% endif %}
+				</div>
+
         </div> <!-- pagina -->
         {% include piede.html %}	   
 	</body>
