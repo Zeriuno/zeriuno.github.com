@@ -5,10 +5,10 @@ layout: base
             <div id="articoli">
 			<div>
                 {% if page.previous %}
-				    <span class="sinistra"><a href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}">&larr; L'articolo precedente</a></span>
+				    <a href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}" class="sinistra">&larr; L'articolo precedente</a>
 				{% endif %}
 				{% if page.next %}
-				    <span class="destra"><a href="{{ page.next.url }}" title="Leggi {{ page.next.title }}">L'articolo successivo &rarr;</a></span>
+				    <a href="{{ page.next.url }}" title="Leggi {{ page.next.title }}" class="destra">L'articolo successivo &rarr;</a>
                 {% endif %}
             </div>
             <div class="pezzo">
@@ -31,10 +31,10 @@ layout: base
             </div><!-- pezzo-->
             <div class="page-nav-bottom">
                 {% if post.previous %}
-                    <span class="sinistra"><a href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}">&larr; L'articolo precedente</a></span>
+                    <a href="{{ page.previous.url }}" title="Leggi {{ page.previous.title }}" class="sinistra">&larr; L'articolo precedente</a></span>
                 {% endif %}
                 {% if post.next %}
-                    <span class="destra"><a href="{{ page.next.url }}" title="Leggi {{ page.next.title }}">L'articolo successivo &rarr;</a></span>
+                    <a href="{{ page.next.url }}" title="Leggi {{ page.next.title }}" class="destra">L'articolo successivo &rarr;</a>
                 {% endif %}
                 <script><!-- commenti-->
 var idcomments_acct = '793549c074a634022fb854e2453f6543';
