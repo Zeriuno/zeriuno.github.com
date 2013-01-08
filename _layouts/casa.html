@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+	<head>
+	    <title>{{ page.title }}</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="author" content="Daniele Pitrolo" />
+		<meta name="description" content="Tentativi ed esperimenti in umanesimo digitale" />
+		<meta name="robots" content="index, follow">
+		<meta name="googlebot" content="NOODP">
+
+		<link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+		
+	    <!-- <link rel="stylesheet" href="/css/syntax.css" type="text/css" media="screen" /> -->
+		
+		<link rel="alternate" href="/atom.xml" title="Zeriuno" type="application/atom+xml" />
+		<link rel="shortcut icon" type="image/x-icon" href="/fissi/favicon.png" />
+		
+	</head>
+
+	<body>
+		<div id="pagina">
+			{% include colonna.html %}
+				<div id="area-articoli">
+					{{ content }}
+				</div> <!-- area-articoli -->
+        </div> <!-- pagina -->
+            <div id="piede">
+            <span id="piede-titolo">Zeriuno - Umanesimo digitale</span>
+            <p>Su questa pagina compaiono solo gli ultimi tre articoli di Zeriuno, quelli che solitamente vengono pubblicati nell'arco di una settimana.<br>
+            <a href="/indice-cronologico.html" title="L'archivio contiene il resto degli articoli">Archivio</a>
+            </p>
+        	</div><!-- piede -->
+	</body>
+</html>
