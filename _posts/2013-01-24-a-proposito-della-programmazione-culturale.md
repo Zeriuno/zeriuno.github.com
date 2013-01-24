@@ -19,7 +19,7 @@ Cinque anni di anticipo non sono considerati come indubitabilmente sufficienti p
 
 ><span lang="en">We look forward to many exciting projects which are already in the planning stage.</span>
 
-Indubbiamente un esempio sorprendente di lungimiranza, della tanto invocata programmazione sul lungo termine, in contrasto con quanto avviene in altre istituzioni culturali. L'<span lang="fr">Institut du Monde Arabe</span> del quale la Corte dei Conti francese ha [recentemente sottolineato][2] (<span lang="la">inter alia</span>) la programmazione tardiva è soltanto uno dei numerosi esempi della rarità di questo comportamento virtuoso.
+Indubbiamente un esempio sorprendente di lungimiranza, della tanto invocata programmazione sul lungo termine, in contrasto con quanto avviene in altre istituzioni culturali. L'<span lang="fr">Institut du Monde Arabe</span> del quale la Corte dei Conti francese ha [recentemente sottolineato][2] (<i lang="la">inter alia</i>) la programmazione tardiva è soltanto uno dei numerosi esempi della rarità di questo comportamento virtuoso.
 
 [1]: http://www.the-wagnerian.com/2013/01/simon-rattle-resigns-from-berliner.html "La notizia riportata in inglese su The Wagnerian"
 [2]: http://www.lejournaldesarts.fr/jda/archives/docs_article/108088/ima--la-cour-des-comptes-remet-le-couvert.php "In francese, su Le Journal des Arts (solo un riassunto è disponibile gratuitamente)"
