@@ -12,9 +12,9 @@ La recensione della mostra sui disegni di Simone Peterzano [scritta da Benedetta
 
 Il Corriere della sera aveva interrogato Maria Teresa Fiorio a proposito dell'avventata attribuzione dei disegni a Caravaggio, riportandone le esemplari affermazioni, serie e misurate. Un'espressione tuttavia risultava formulata in maniera infelice, probabilmente per via della complicità della [parafrasi giornalistica][3].
 
->Uno studioso serio non fa un ebook, studia i disegni e li pubblica nelle sedi appropriate.
+>Uno studioso serio non fa un <span lang="en">ebook</span>, studia i disegni e li pubblica nelle sedi appropriate.
 
-Il pensiero soggiacente è evidente: di fronte ad un'operazione improvvisata, di minima qualità tipografica, probabilmente non scevra da intenti mercantili, l'ex direttrice delle Raccolte d'Arte del Castello Sforzesco sottolineava il valoro dello studio, che si prolunga nel tempo e che si nutre di confronti all'interno della comunità scientifica.
+Il pensiero soggiacente è evidente: di fronte ad un'operazione improvvisata, di minima qualità tipografica, probabilmente non scevra da intenti mercantili, l'ex direttrice delle Raccolte d'Arte del Castello Sforzesco sottolineava il valore dello studio, che si prolunga nel tempo e che si nutre di confronti all'interno della comunità scientifica.
 
 È altrettanto chiaro che un secondo signficato che si potrebbe prestare a questa frase la renderebbe non più condivisibile: un libro elettronico (o <span lang="en">e-book</span>) può senza alcun problema accogliere un lavoro scientifico di primo piano; carta ed inchiostro non sono condizioni necessarie (e neppure sufficienti) perché una pubblicazione sia scientificamente valida, in quest'ambito contano le idee e la loro formulazione, non la confezione materiale che viene data alle parole.
 
