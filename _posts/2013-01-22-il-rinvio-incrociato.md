@@ -29,7 +29,7 @@ Di questi i primi due sono disponibili per ogni sistema operativo, gli ultimi so
 Per usare Scrivener su diversi sistemi operativi è necessario acquistare una licenza per ogni sistema operativo (la licenza consente però di installare il programma su tutti i <span lang="en">computer</span> di una medesima famiglia).
 La versione di Scrivener per Linux è stata messa in cantiere recentemente ed è attualmente non pienamente funzionante.
 
-##Melllel
+##Mellel
 
 Mellel da poco è stato declinato in una versione minore, venduta tramite <span lang="en">Mac App Store</span>: [Mellel <span lang="en">Lite</span>][5]. Questa versione non offre la possibilità di effettuare rinvii incrociati, che tuttavia può essere acquistata a 5,99€ (ugualmente assenti la creazione automatica di un indice e della gestione delle bibliografie).
 
