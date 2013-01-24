@@ -11,7 +11,7 @@ type: post
 published: true
 ---
 
-Ho letto qualche giorno fa la notizia: <span lang="en">Simon Rattle</span> lascia i <span lang="de">Berliner Philharmoniker</span> (e [lo annuncia][1] in maniera divertente ed umoristica, indubbiamente). L'annuncio sembrava annunciare il futuro imminente, mentre la decisione del direttore d'orchestra riguarda il suo futuro dopo la fine del contratto che lo lega attualmente all'orchestra, valido sino *all'estate del 2018*.
+Ho letto qualche giorno fa la notizia: <span lang="en">Simon Rattle</span> lascia i <span lang="de">Berliner Philharmoniker</span> (e [lo annuncia][1] in maniera divertente ed umoristica). L'annuncio mi sembrava riguardare il futuro imminente, mentre il direttore d'orchestra ha parlato del suo futuro dopo la fine del contratto che lo lega attualmente all'orchestra, ossia di quel che accadrà dopo *l'estate del 2018*.
 
 ><span lang="en">This was not an easy decision. I love this orchestra and therefore wanted to tell them my decision as early as possible. I deeply hope that this will give them enough time to start new plans.</span>
 
