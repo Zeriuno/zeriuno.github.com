@@ -18,6 +18,8 @@ Un altro sistema è [Trello][3], che mi ha segnalato [Nicola Losito][2]. Più ch
 
 Il video è sia su [Vimeo][4] che su [<span lang="en">YouTube</span>][6].
 
+Aggiunta del 28 Gennaio 2013: [<span lang="en">Organisr</span>]][9] è un altro strumento analogo a Trello.
+
 [1]: http://corkboard.me/ "Cork Board, in inglese"
 [2]: http://koolinus.net "Nicola Losito, il suo blog"
 [3]: http://trello.com/ "Trello, in inglese"
@@ -26,3 +28,4 @@ Il video è sia su [Vimeo][4] che su [<span lang="en">YouTube</span>][6].
 [6]: http://www.youtube.com/watch?v=N_e9HvhtPLE "Presentazione di Trello, in inglese"
 [7]: http://www.youtube.com/watch?v=GeaFCfOPwy4 "Cork Board su Vimeo, in inglese"
 [8]: http://vimeo.com/18369154 "Cork Board su Vimeo, in inglese"
+[9]: http://organi.sr/ "In inglese, Organisr"
