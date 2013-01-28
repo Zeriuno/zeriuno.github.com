@@ -4,7 +4,7 @@ layout: post
 date: 2013-01-08
 status: publish
 tags: 
-- e-book
+- libri elettronici
 type: post
 published: true
 ---
