@@ -12,7 +12,7 @@ Aderendo al [dogma del momento][1], la <span lang="fr">Cinémathèque française
 
 ##La censura
 
-Il messaggio è stato censurato per il carattere "pornografico" della fotografia (sì, quella che segue).
+Il messaggio è stato censurato per il carattere "pornografico" della fotografia, quella che segue.
 
 <img src="/immagini/facebook1.jpg" title="" alt="In una stanza, una donna nuda, di profilo, si lascia cadere su un uomo sdraiato su un letto">
 
