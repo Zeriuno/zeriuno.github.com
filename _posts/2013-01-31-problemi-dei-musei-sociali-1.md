@@ -8,7 +8,7 @@ tags:
 type: post
 published: true
 ---
-Aderendo al [dogma del momento][1], la <span lang="fr">Cinémathèque française</span> fa uso dei <span lang="en">social networks</span> per promuovere le sue attività. [La proiezione][2] di un film di <span lang="ne">Paul Verhoeven, Turks fruit</span> è stata segnalata con un messaggio su <span lang="en">FaceBook</span>, evento banale dalle conseguenze inattese ed illuminanti.
+Aderendo al [dogma del momento][1], la <span lang="fr">Cinémathèque française</span> fa uso dei <span lang="en">social network</span> per promuovere le sue attività. [La proiezione][2] di un film di <span lang="ne">Paul Verhoeven, Turks fruit</span> è stata segnalata con un messaggio su <span lang="en">FaceBook</span>, evento banale dalle conseguenze inattese ed illuminanti.
 
 ##La censura
 
@@ -16,7 +16,7 @@ Il messaggio è stato censurato per il carattere "pornografico" della fotografia
 
 <img src="/immagini/facebook1.jpg" title="" alt="In una stanza, una donna nuda, di profilo, si lascia cadere su un uomo sdraiato su un letto">
 
-Segue una lamentela ripetuta della chiusura di <span lang="en">Facebook</span>, su <span lang="en">Twitter</span>, con diffusione dell'immagine ([una][3], [due][4], [tre][5]). Censurare un istituzione culturale che promuove un'opera dello spirito è indubbiamente un gesto che oggi apparirebbe sicuramente inaccettabile se fosse compiuto da un politico, ed anche in altri casi, tanto che quando è avvenuto per [la pipa di <span lang="fr">Tati</span>][6] e [la Venere di <span lang="de">Cranach</span>][7] è stato necessario un dietro front. Con <span lang="en">Facebook</span>, però, nessun cambiamento di rotta.
+Segue una lamentela ripetuta della chiusura di <span lang="en">Facebook</span>, su <span lang="en">Twitter</span>, con diffusione dell'immagine ([una][3], [due][4], [tre][5]). Censurare un istituzione culturale che promuove un'opera dello spirito è indubbiamente un gesto che oggi apparirebbe sicuramente inaccettabile se fosse compiuto da un politico, ed anche in altri casi, tanto che quando è avvenuto per [la pipa di <span lang="fr">Tati</span>][6] e [la Venere di <span lang="de">Cranach</span>][7] è stato necessario un dietro front. Con <span lang="en">Facebook</span>, però, nessun cambiamento di rotta (nessuno in passato, nessuno da prevedere o sperare).
 
 La censura, che segue ad un controllo effettuato molto verosimilmente da un programma, viene applicata a tutti gli utenti, ed è un punto ben noto delle regole del servizio. Nello scegliere <span lang="en">Facebook</span>, la <span lang="fr">Cinémathèque</span> ha accettato di sottostare ad una censura permanente. Si spera tra l'altro che la scelta fosse consapevole e non frutto di ignoranza e leggerezza, come potrebbe fare credere leggere il messaggio di preoccupazione in vista [della mostra su Pasolini][8].
 
