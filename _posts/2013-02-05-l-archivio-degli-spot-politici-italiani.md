@@ -55,7 +55,7 @@ Benché si tratti di un'abitudine consolidata, questa iniqua maniera di dividere
 
 ##Scoprire i contenuti
 
-Un <i lang="en">data base</i> contiene (auspicabilmente) tutti i dati. Il problema è scoprirli, e più che trovare quello che si cerca (ccosa che l'informatica rende facile), trovare quello che non si cerca, che non si conosce (cosa che l'informatica rende ugualmente facile, a patto di predisporre gli strumenti adatti).
+Un <i lang="en">data base</i> contiene (auspicabilmente) tutti i dati. Il problema è scoprirli, e più che trovare quello che si cerca (cosa che l'informatica rende facile), trovare quello che non si cerca, che non si conosce (cosa che l'informatica rende ugualmente facile, a patto di predisporre gli strumenti adatti).
 
 ###Elemento a caso
 
