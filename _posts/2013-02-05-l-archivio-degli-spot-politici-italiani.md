@@ -59,7 +59,7 @@ Un <i lang="en">data base</i> contiene (auspicabilmente) tutti i dati. Il proble
 
 ###Elemento a caso
 
-La possibilità di esaminare un elemento a caso di una collezione è uno strumento utile per scoprire la ricchezza di una collezione, delle risorse sconosciute, di uscire dagli schemi già tracciati. La [prima pagina][6] dell'Archivio degli spot politici presenta un elemento a caso.
+La possibilità di esaminare un elemento a caso di una collezione è uno strumento utile per scoprire la ricchezza di una collezione, delle risorse sconosciute, per uscire dagli schemi già tracciati. La [prima pagina][6] dell'Archivio degli spot politici presenta un elemento a caso.
 
 ###Percorsi
 
