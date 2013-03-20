@@ -1,7 +1,7 @@
 --- 
 title: Problemi dei musei sociali, 2
 layout: post
-date: 2013-03-18
+date: 2013-03-20
 status: publish
 tags: 
 - Politiche culturali
