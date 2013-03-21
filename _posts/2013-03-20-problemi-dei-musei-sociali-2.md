@@ -12,7 +12,7 @@ Dopo [la disavventura della <span lang="fr">Cinémathèque</span>][1], è il <sp
 
 ##Il fatto ed i precedenti
 
-In seguito alla pubblicazione su <span lang="en">Facebook</span> di nudo, una fotografia di <span lang="fr">Laure Albin Guillot</span>, il museo ha ricevuto la segnalazione che il contenuto inserito era stato rimosso, ed il profilo dell'istituzione sospeso: la fotografia di era stata considerata in violazione delle condizioni d'uso stabilite dalla società.
+In seguito alla pubblicazione su <span lang="en">Facebook</span> di nudo, una fotografia di <span lang="fr">Laure Albin Guillot</span>, il museo ha ricevuto la segnalazione che il contenuto inserito era stato rimosso, ed il profilo dell'istituzione sospeso: la fotografia era stata considerata in violazione delle condizioni d'uso stabilite dalla società.
 
 Si tratta di una sorpresa? Affatto. Non solo il museo ha sicuramente preso conoscenza dei termini d'uso di <span lang="en">Facebook</span> prima di accettarli, ma ha certamente saputo di [quanto capitato alla <span lang="fr">Cinémathèque</span> poco fa][1]; sa senza dubbio che un utente che usava <i lang="fr">L'origine du monde</i> di <span lang="fr">Courbet</span> come immagine del suo profilo [venne sospeso][2] (il quadro ha causato [altri][6] casi [simili][7]); non ignora forse che un disegno del <span lang="en">New Yorker</span> che mostrava dei seni [venne rifiutato][3] come pure è stato per, tornando nell'ambito dei musei, un'opera di <span lang="de">Gerhard Richter</span> pubblicata [quest'estate dal <span lang="fr">Centre Pompidou</span>][5].
 
