@@ -65,6 +65,7 @@ La possibilità di esaminare un elemento a caso di una collezione è uno strumen
 
 La costruzione di percorsi tematici è una scelta intelligente per guidare alla scoperta di un insieme di elementi. L'archivio degli spot politici offre dodici percorsi, immagino (e spero) realizzati grazie all'attribuzione di parole chiave. È un peccato, però, che non sia offerta a ciascuno la possibilitàdi realizzare i propri percorsi tramite delle parole chiave visibili per l'utente.<br>
 Altra mancanza spiacevole è la possibilità di percorrere cronologicamente i video, uno dopo l'altro, tramite una semplice coppia di tasti (quella che ho tanto usato nel sito del <span lang="en">Metropolitan Museum</span>, percorrendone i dipartimenti) che permetta di passare da un video al successivo (od al precedente) nella banca dati.
+{% raw %}
 
 [1]: http://validator.w3.org/ "Il servizio offerto dal W3C, in inglese"
 [3]: http://archive.org/ "In inglese, Internet Archive"
