@@ -36,7 +36,7 @@ La seconda porta sulla possibilità di conoscere i risultati. Anna Maria Buzzi, 
 Per rendere conto dell'avanzamento dei lavori basterebbe poco: una pagina internet, delle notifiche via <abbr title="Really Simple Syndication" lang="en">RSS</abbr>, o anche il tanto invocato <span lang="en">Twitter</span>. In questa maniera invece di restare come segreta, riservata a chi la scopre grazie ad una ricerca fortunata, la notizia della disponibilità di un testo sarebbe in breve tempo di dominio pubblico.
 
 
-Integro nell'articolo un commento, a firma nunpetrus, utile complemento:
+Integro nell'articolo un commento, a firma nunpetrus, utile complemento.
 
 >le scansioni dei libri prelevati dalle collezioni delle biblioteche italiane cominciano ad essere disponibili in <span lang="en">googlebooks</span><br>
 le più recenti, in quanto a data di immissione nel sistema, datano maggio 2013, Febbraio quelle meno recenti
