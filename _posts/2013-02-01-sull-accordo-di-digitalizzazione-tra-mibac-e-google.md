@@ -38,24 +38,23 @@ Per rendere conto dell'avanzamento dei lavori basterebbe poco: una pagina intern
 
 Integro nell'articolo un commento, a firma nunpetrus, utile complemento:
 
->le scansioni dei libri prelevati dalle collezioni delle biblioteche italiane cominciano ad essere disponibili in <span lang="en">googlebooks</span>
-
->le più recenti, in quanto a data di immissione nel sistema, datano maggio 2013, Febbraio quelle meno recenti
+>le scansioni dei libri prelevati dalle collezioni delle biblioteche italiane cominciano ad essere disponibili in <span lang="en">googlebooks</span><br>
+le più recenti, in quanto a data di immissione nel sistema, datano maggio 2013, Febbraio quelle meno recenti
 
 >Non ho personalmente trovato traccia dei libri della biblioteca nazionale di Napoli (chiamerò nei prossimi giorni per vedere se riesco a ottenere informazioni); i volumi attualmente disponibili al momento, sembrano provenire dalla BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE e dalla biblioteca dell'università LA SAPIENZA di Roma 
 
 >ecco alcuni esempi dei volumi digitalizzati (scansionati a colori poi convertiti in bianco e nero - di modo da poterli stampare agevolmente alloccorrenza - e compressi con l'algoritmo jbig2 tramite l'encoder jbig2enc sviluppato da Adam Langley appositamente per google) 
 
 >BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE<br>
-[http://books.google.it/books?id=Ho4-en-m9SEC](http://books.google.it/books?id=Ho4-en-m9SEC "")<br>
-[http://books.google.it/books?id=OmOee7OFlJwC](http://books.google.it/books?id=OmOee7OFlJwC "")<br>
-[http://books.google.it/books?id=f9eWB1ZEdHUC](http://books.google.it/books?id=f9eWB1ZEdHUC "")<br>
+[http://books.google.it/books?id=Ho4-en-m9SEC][9]<br>
+[http://books.google.it/books?id=OmOee7OFlJwC][10]<br>
+[http://books.google.it/books?id=f9eWB1ZEdHUC][11]<br>
 
 >altri volumi della BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE, possono essere visualizzati effettuando una ricerca con la chiave "annibale giulioni" nome del donatore dal cui fondo sembrano provenire le opere attualmente digitalizzate da googlebooks e appartenenti alla BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE 
 
 >Sapienza - Università di Roma<br>
-[http://books.google.it/books?id=84wzXnqM6lEC](http://books.google.it/books?id=84wzXnqM6lEC "")<br>
-[http://books.google.it/books?id=D2u1NL7Jrx8C](http://books.google.it/books?id=D2u1NL7Jrx8C "")<br>
+[http://books.google.it/books?id=84wzXnqM6lEC][12]<br>
+[http://books.google.it/books?id=D2u1NL7Jrx8C][13]<br>
 
 >altri volumi della Sapienza - Università di Roma, possono essere visualizzati effettuando una ricerca con la chiave "Fondazione G. Gentile" nome del fondo da cui sembrano provenire le opere attualmente digitalizzate da googlebooks e appartenenti alla biblioteca de la Sapienza - Università di Roma
 
@@ -68,3 +67,8 @@ Integro nell'articolo un commento, a firma nunpetrus, utile complemento:
 [6]: http://www.italiaoggi.it/news/dettaglio_news.asp?id=201209051746167365&chkAgenzie=ITALIAOGGI "Riassunto su Italia Oggi"
 [7]: http://web20.excite.it/accordo-google-mibac-i-classici-della-letteratura-italiana-sul-web-N132938.html "Ad esempio su Excite.it"
 [8]: http://www.repubblica.it/tecnologia/2010/03/10/news/google_books_accordo_ministero-2583000/ "Un articolo su Repubblica.it" 
+[9]: http://books.google.it/books?id=Ho4-en-m9SEC ""
+[10]: http://books.google.it/books?id=OmOee7OFlJwC ""
+[11]: http://books.google.it/books?id=f9eWB1ZEdHUC ""
+[12]: http://books.google.it/books?id=84wzXnqM6lEC ""
+[13]: http://books.google.it/books?id=D2u1NL7Jrx8C ""
