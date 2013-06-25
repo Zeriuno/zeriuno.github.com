@@ -1,0 +1,191 @@
+/*I commenti in inglese sono di Simon Pascal Klein: klepas.org
+Sfondo: #ece8e4;
+blu di sfondo possibili 006e8a, #073642
+Lo sfondo del titolo, #f6f6f6, il colore di data-indice, mi sono stati suggeriti da questo divertente articolo http://visualidiot.com/articles/fifty-shades
+*/
+
+/*@font-face {
+    font-family: 'LinuxLibertineORegular';
+    src: url('/tipografia/LinLibertine_R-webfont.eot');
+    src: url('/tipografia/LinLibertine_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/tipografia/LinLibertine_R-webfont.woff') format('woff'),
+         url('/tipografia/LinLibertine_R-webfont.ttf') format('truetype'),
+         url('/tipografia/LinLibertine_R-webfont.svg#LinuxLibertineORegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}*/
+a {
+  color: #268bd2;
+  text-decoration: none;
+} 
+a:hover {
+    -moz-transition: color 0.5s, -moz-background 0.5s;
+    -o-transition: color 0.5s, -o-background 0.5s;
+    -webkit-transition: color 0.5s, -webkit-background 0.5s;
+    transition: color 0.5s, background 0.5s;
+    background: #268bd2;
+    color: white;
+    transition: color .5s;
+}
+abbr {
+  border-width: 0px;
+}
+#area-articoli {
+    float:right;
+    margin-top:5em;
+    overflow: auto;
+    padding: 10px;
+    width:750px;
+}
+body {
+    background-image: url(/fissi/sfondo.png); /*sfondo.png generato con http://www.noisetexturegenerator.com/ */
+    background-repeat:  repeat;
+    background-attachment: scroll;
+    margin:0;
+}
+#colonna {
+    /*background-color: #ece8e4;*/
+    float:left;
+    height: 100%;
+    line-height: 1.8em;
+    margin:0;
+    padding-bottom: 3em;
+    padding-left: 0;
+    padding-right: 30px;
+    position: relative
+    ;
+    width:100px;
+}
+/* i due prossimi paragrafi li ho copiati da http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/ */
+#colonna ul {
+    margin:0;
+    padding:10px;
+    list-style:none;
+}
+#colonna li {
+    margin:0;
+    padding:0;
+}
+/*.colonna-link {
+
+}
+.colonna-link:hover {
+  
+}*/
+.data {
+  color: ;
+}
+.data-indice {
+    color: #ccc;
+}
+.destra {
+    position:right;
+}
+html {
+    /*background-color: #ece8e4;*/
+    color: #111;
+    line-height: 1.5; /* We can use unitless numbers here; they act as multiples of the font-size. */
+    margin:0;
+    overflow-y: scroll; /* Fixes Firefox scrollbar jump */
+    padding:0;
+    margin-bottom:0;
+}
+#icona {
+    -moz-border-radius: 50% 50% 50% 50%;
+    -webkit-border-radius: 50% 50% 50% 50%;
+    -o-border-radius: 50% 50% 50% 50%;
+    border-radius: 50% 50% 50% 50%;
+    border: 1em solid white;
+    display: block;
+    max-width: 5em;
+    border-bottom: 0.5em solid #268bd2;
+}
+#icona:hover {
+    border: 1em solid #268bd2;
+    border-bottom: 0.5em solid white;
+    transition: color 1s;
+    }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+}
+.logo-html5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 45px;
+}
+#pagina {
+  width:960px;
+  margin-left:auto;
+  margin-right:auto;
+  min-height: 90%;
+  background-color: #ece8e4;
+}
+.pezzo {
+    -moz-border-radius-bottomright: 8px;  
+    border-bottom-right-radius: 8px;
+    -moz-border-radius-bottomleft: 8px;
+    border-bottom-left-radius: 8px;  
+    -webkit-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 1px 8px rgba(0,0,0,0.15);
+    background-color: white;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-justify: newspaper;
+    padding-bottom: 15px;
+}
+#piede {
+    background-color: #004a63;
+    bottom: 0px;
+    clear:both;
+    color:white;
+    height: 6em;
+    padding 0;
+    padding-bottom:0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+#piede p {
+    position: center;
+}
+#piede-titolo {
+        text-transform: uppercase;
+}
+.sinistra {
+    position:left;
+}
+#spazio-icona {
+    padding-top: 2.5em;
+    padding-bottom: 1.2em;
+}
+.testa-pezzo {
+    background:#f6f6f6;
+    padding-left:20px;
+    padding-top: 5px;
+    display:block;
+    line-height: 1.35;
+}
+.testo-articolo {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align:justify;
+}
+.titolo {
+    text-transform: uppercase;
+	font-size: 18px;
+}
+.titolo-indice {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 22px;
+}
+#tutto {
+    width:850px;
+    margin:0 auto;
+}
