@@ -35,6 +35,31 @@ La seconda porta sulla possibilità di conoscere i risultati. Anna Maria Buzzi, 
 
 Per rendere conto dell'avanzamento dei lavori basterebbe poco: una pagina internet, delle notifiche via <abbr title="Really Simple Syndication" lang="en">RSS</abbr>, o anche il tanto invocato <span lang="en">Twitter</span>. In questa maniera invece di restare come segreta, riservata a chi la scopre grazie ad una ricerca fortunata, la notizia della disponibilità di un testo sarebbe in breve tempo di dominio pubblico.
 
+
+Integro nell'articolo un commento, a firma nunpetrus, utile complemento:
+
+>le scansioni dei libri prelevati dalle collezioni delle biblioteche italiane cominciano ad essere disponibili in <span lang="en">googlebooks</span>
+
+>le più recenti, in quanto a data di immissione nel sistema, datano maggio 2013, Febbraio quelle meno recenti
+
+>Non ho personalmente trovato traccia dei libri della biblioteca nazionale di Napoli (chiamerò nei prossimi giorni per vedere se riesco a ottenere informazioni); i volumi attualmente disponibili al momento, sembrano provenire dalla BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE e dalla biblioteca dell'università LA SAPIENZA di Roma 
+
+>ecco alcuni esempi dei volumi digitalizzati (scansionati a colori poi convertiti in bianco e nero - di modo da poterli stampare agevolmente alloccorrenza - e compressi con l'algoritmo jbig2 tramite l'encoder jbig2enc sviluppato da Adam Langley appositamente per google) 
+
+>BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE<br>
+[http://books.google.it/books?id=Ho4-en-m9SEC](http://books.google.it/books?id=Ho4-en-m9SEC "")<br>
+[http://books.google.it/books?id=OmOee7OFlJwC](http://books.google.it/books?id=OmOee7OFlJwC "")<br>
+[http://books.google.it/books?id=f9eWB1ZEdHUC](http://books.google.it/books?id=f9eWB1ZEdHUC "")<br>
+
+>altri volumi della BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE, possono essere visualizzati effettuando una ricerca con la chiave "annibale giulioni" nome del donatore dal cui fondo sembrano provenire le opere attualmente digitalizzate da googlebooks e appartenenti alla BIBLIOTECA NAZIONALE CENTRALE DI FIRENZE 
+
+>Sapienza - Università di Roma<br>
+[http://books.google.it/books?id=84wzXnqM6lEC](http://books.google.it/books?id=84wzXnqM6lEC "")<br>
+[http://books.google.it/books?id=D2u1NL7Jrx8C](http://books.google.it/books?id=D2u1NL7Jrx8C "")<br>
+
+>altri volumi della Sapienza - Università di Roma, possono essere visualizzati effettuando una ricerca con la chiave "Fondazione G. Gentile" nome del fondo da cui sembrano provenire le opere attualmente digitalizzate da googlebooks e appartenenti alla biblioteca de la Sapienza - Università di Roma
+
+
 [1]: /2013/01/15/scaricare-un-libro-da-google-books.html
 [2]: http://espresso.repubblica.it/dettaglio/cultura-il-flop-del-supermanager/2197582//0 "Resoconto del duro parere della Corte dei Conti sull'operato di Mario Resca"
 [3]: https://sites.google.com/a/pressatgoogle.com/italianlibraries/ "La data dell'annuncio"
