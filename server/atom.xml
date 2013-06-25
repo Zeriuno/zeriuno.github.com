@@ -4,7 +4,7 @@
  <title></title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2013-06-25T17:41:23+02:00</updated>
+ <updated>2013-06-25T17:47:28+02:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -95,7 +95,7 @@ Facebook is a perfect example. You can spend a lot of time and energy learning t
 
 &lt;h2 id='il_linguaggio'&gt;Il linguaggio&lt;/h2&gt;
 
-&lt;p&gt;Anche se oramai l&amp;#8217;&lt;abbr lang='en' title='Hyper Text Markup Language'&gt;HMTL&lt;/abbr&gt; 5 è una realtà affermata, il linguaggio capace di rispondere al meglio al ruolo di trasmissione delle informazioni complesse riunite oramai nei siti internet (e la loro compatibilità con le macchine che li consultano), il sito internet del progetto adotta (quasi sempre) &lt;span lang='en'&gt;Flash&lt;/span&gt; per la riproduzione dei video (niente accessibilità, quindi); usa l&amp;#8217;&lt;abbr lang='en' title='Extendend Hyper Text Markup Language'&gt;XHTML&lt;/abbr&gt; nella sua versione 1.0, senza tuttavia seguirne completamente i dettami (il 21 Dicembre il &lt;a href='http://validator.w3.org/' title='Il servizio offerto dal W3C, in inglese'&gt;Validatore del &lt;abbr lang='en' title='World Wide Web Consortium'&gt;W3C&lt;/abbr&gt;&lt;/a&gt;, per la sola pagina di apertura del sito segnala 20 errori e riporta 25 avvertimenti). Avendo notato che dalla sua presentazione ad oggi il sito è stato oggetto di modifiche (il visitatore veniva prima diretto verso una pagina di dimostrazione del sito, &lt;em&gt;demo&lt;/em&gt;), immagino che un lavoro di correzione delle ultime imperfezioni sia ancora in corso, e che possa rimuovere questi accidenti.&lt;/p&gt;
+&lt;p&gt;Anche se oramai l&amp;#8217;&lt;abbr lang='en' title='Hyper Text Markup Language'&gt;HMTL&lt;/abbr&gt; 5 è una realtà affermata, il linguaggio capace di rispondere al meglio al ruolo di trasmissione delle informazioni complesse riunite oramai nei siti internet (e la loro compatibilità con le macchine che li consultano), il sito internet del progetto adotta (quasi sempre) &lt;span lang='en'&gt;Flash&lt;/span&gt; per la riproduzione dei video (niente accessibilità, quindi); usa &lt;abbr lang='en' title='Extendend Hypertext Markup Language'&gt;XHTML&lt;/abbr&gt; nella sua versione 1.0, senza tuttavia seguirne completamente i dettami (il 21 Dicembre il &lt;a href='http://validator.w3.org/' title='Il servizio offerto dal W3C, in inglese'&gt;Validatore del &lt;abbr lang='en' title='World Wide Web Consortium'&gt;W3C&lt;/abbr&gt;&lt;/a&gt;, per la sola pagina di apertura del sito segnala 20 errori e riporta 25 avvertimenti). Avendo notato che dalla sua presentazione ad oggi il sito è stato oggetto di modifiche (il visitatore veniva prima diretto verso una pagina di dimostrazione del sito, &lt;em&gt;demo&lt;/em&gt;), immagino che un lavoro di correzione delle ultime imperfezioni sia ancora in corso, e che possa rimuovere questi accidenti.&lt;/p&gt;
 
 &lt;p&gt;A proposito di linguaggio, la &lt;a href='http://www.archivispotpolitici.it/link.php' title='La sezione Link dell'&gt;sezione link&lt;/a&gt; dopo un frammento di codice (strong&amp;gt;) dimenticato all&amp;#8217;inizio del secondo paragrafo, presenta l&amp;#8217;ultima voce interamente in inglese, senza usare gli elementi necessari per etichettare correttamente la lingua (per correggere, serve un accorgimento minimo, analogo a quello da adottare per il Bollettino d&amp;#8217;Arte, &lt;a href='http://zeriuno.github.com/2012/12/07/l-archivio-del-bollettino-d-arte-in-linea.html' title='Il Bollettino d'&gt;discusso qui&lt;/a&gt;).&lt;/p&gt;
 
@@ -342,7 +342,7 @@ Facebook is a perfect example. You can spend a lot of time and energy learning t
    <id>/2013/01/14/confrontare-due-versioni-di-un-documento</id>
    <content type="html">&lt;p&gt;In uno dei primi interventi su Zeriuno ho parlato degli &lt;a href='/2011/10/12/gli-strumenti-di-revisione.html' title='Gli strumenti di revisione, su Zeriuno'&gt;strumenti di revisione&lt;/a&gt;: imprescindibili per collaborare in maniera efficace su un testo. Tuttavia lo strumento può non essere padroneggiato da qualcuno, che potrebbe intervenire su un documento senza attivare la rilevazione dei cambiamenti. Il documento risultante non palesa i cambiamenti che sono stati effettuati, nondimeno esistono alcuni strumenti per intervenire &lt;span lang='la'&gt;a posteriori&lt;/span&gt;, oltre alla pazienza ed all&amp;#8217;attenzione (sempre necessarie), s&amp;#8217;intende.&lt;/p&gt;
 
-&lt;h2 id='id3'&gt;&lt;span lang='en'&gt;Microsoft Word&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 id='id7'&gt;&lt;span lang='en'&gt;Microsoft Word&lt;/span&gt;&lt;/h2&gt;
 
 &lt;p&gt;Il primo potrebbe essere &lt;span lang='en'&gt;Microsoft Word&lt;/span&gt;, che nella versione per &lt;span lang='en'&gt;Mac&lt;/span&gt; offre quest&amp;#8217;opzione già dall&amp;#8217;edizione 2008 (prima non saprei, ma non lo escludo). Nel menù &lt;em&gt;Strumenti&lt;/em&gt;, alla voce &lt;em&gt;Revisioni&lt;/em&gt;, viene offerto il comando &lt;em&gt;Confronta verisoni&amp;#8230;&lt;/em&gt;.&lt;/p&gt;
 &lt;img src='/immagini/word1.gif' alt='Barra del menù, Strumenti, Revisioni, Confronta versioni…' title='' /&gt;
