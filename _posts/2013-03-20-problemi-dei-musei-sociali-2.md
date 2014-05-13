@@ -8,7 +8,7 @@ tags:
 type: post
 published: true
 ---
-Dopo [la disavventura della <span lang="fr">Cinémathèque</span>][1], è il <span lang="fr">Jeu de Paume</span> a cadere vittima delle regole di <span lang="en">Facebook</span> (ne rendono conto, tra gli altri, <a href="http://next.liberation.fr/sexe/2013/03/06/pour-facebook-c-est-toujours-le-corps-des-femmes-qui-pose-probleme_886704" title="" lang="fr">Libération</a> e <a href=" http://www.numerama.com/magazine/25307-musee-du-jeu-de-paume-facebook-assume-la-censure.html" title="" lang="fr">Numerama</a>) e questo rappresenta a mio avvisio un nuovo spunto per alcune riflessioni, forse un po' scoordinate, sull'uso dei <span lang="en">social network</span> da parte dei musei.
+Dopo [la disavventura della <span lang="fr">Cinémathèque</span>][1], è il <span lang="fr">Jeu de Paume</span> a cadere vittima delle regole di <span lang="en">Facebook</span> (ne rendono conto, tra gli altri, <a href="http://next.liberation.fr/sexe/2013/03/06/pour-facebook-c-est-toujours-le-corps-des-femmes-qui-pose-probleme_886704" title="" lang="fr">Libération</a> e <a href=" http://www.numerama.com/magazine/25307-musee-du-jeu-de-paume-facebook-assume-la-censure.html" title="" lang="fr">Numerama</a>) e questo rappresenta a mio avvisio un nuovo spunto per alcune riflessioni, forse un po' scoordinate, sull'uso dei <span lang="en">social network</span> da parte dei musei. **ZOZZONE**
 
 ##Il fatto ed i precedenti
 
