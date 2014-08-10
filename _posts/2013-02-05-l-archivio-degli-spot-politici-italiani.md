@@ -34,7 +34,7 @@ In secondo luogo, se gli spot sono, come [affermato sul sito][7] "un importante 
 Stupiscono alcune incertezze relative al nome del sito.<br>
 In alto a sinistra, un'immagine identifica il sito come "Archivio degli Spot Politici". Il sito tuttavia è archivispotpolitici.it, preferendo il plurale (ed archiviospotpolitici.it risulta non registrato); il plurale è ugualmente adottato per il titolo dell'immagine ed il suo contenuto alternativo (correttamente utilizzato). Il plurale è anche preferito per l'intestazione del titolo, che recita
 
-<code><title>Archivi Spot Politici - Raccolta e Analisi Video Spot Slogan Partiti Politici Campagna Elettorale</title></code>
+>Archivi Spot Politici - Raccolta e Analisi Video Spot Slogan Partiti Politici Campagna Elettorale
 
 Curiosamente nessuna delle due versioni del nome prende in considerazione la limitazione nazionale dell'archivio.
 
@@ -42,11 +42,11 @@ Curiosamente nessuna delle due versioni del nome prende in considerazione la lim
 
 >Tutti i materiali audiovisivi contenuti nel sito www.archivispotpolitici.it – tranne i casi espressamente richiesti dagli archivi ed indicati -, così come i testi, sono stati volutamente lasciati di libera fruizione, con l’unica richiesta di citare la fonte in caso di utilizzo.
 
-La nota sulla pagina che [presenta il progetto][10] sembra, più che autorizzare la consultazione del sito a titolo non oneroso, segnalare la possibilità di reutilizzare i contenuti del sito. Si presume quindi che gli aventi diritto abbiano ceduto le autorizzazioni necessarie all'Archivio (operazione che avrà reso ancora più gravoso il lavoro di costituzione della banca dati). Quali garanzie può tuttavia offrire l'Archivio relativamente all'uso dei video che egli **non** custodisce? La fonte dei video è l'Archivio degli spot politici (che ha reperito il materiale e lo ha messo in linea) o <span lang="en">Internet Archive</span> che lo custodisce e dal quale attinge l'Archivio degli spot politici?
+La nota sulla pagina che [presenta il progetto][0] sembra, più che autorizzare la consultazione del sito a titolo non oneroso, segnalare la possibilità di reutilizzare i contenuti del sito. Si presume quindi che gli aventi diritto abbiano ceduto le autorizzazioni necessarie all'Archivio (operazione che avrà reso ancora più gravoso il lavoro di costituzione della banca dati). Quali garanzie può tuttavia offrire l'Archivio relativamente all'uso dei video che egli **non** custodisce? La fonte dei video è l'Archivio degli spot politici (che ha reperito il materiale e lo ha messo in linea) o <span lang="en">Internet Archive</span> che lo custodisce e dal quale attinge l'Archivio degli spot politici?
 
 ##Risultati
 
-Come è ovvio, benché comporti un grande lavoro, l'Archivio degli spot politici non è che un insieme di dati grezzi, una miniera di riflessioni sulla società e sulla politica italiane, ma solo in potenza. Come segnalato [sul sito][10], degli interventi sono previsti (oramai realizzati, credo):
+Come è ovvio, benché comporti un grande lavoro, l'Archivio degli spot politici non è che un insieme di dati grezzi, una miniera di riflessioni sulla società e sulla politica italiane, ma solo in potenza. Come segnalato [sul sito][0], degli interventi sono previsti (oramai realizzati, credo):
 
 >I risultati della ricerca sulla Popolarizzazione della politica ed i principali contributi prodotti dalle unità delle quattro Università sono pubblicati sulla rivista Comunicazione Politica n.3, 2012, a. XII, edita da Il Mulino.
 
@@ -65,7 +65,6 @@ La possibilità di esaminare un elemento a caso di una collezione è uno strumen
 
 La costruzione di percorsi tematici è una scelta intelligente per guidare alla scoperta di un insieme di elementi. L'archivio degli spot politici offre dodici percorsi, immagino (e spero) realizzati grazie all'attribuzione di parole chiave. È un peccato, però, che non sia offerta a ciascuno la possibilitàdi realizzare i propri percorsi tramite delle parole chiave visibili per l'utente.<br>
 Altra mancanza spiacevole è la possibilità di percorrere cronologicamente i video, uno dopo l'altro, tramite una semplice coppia di tasti (quella che ho tanto usato nel sito del <span lang="en">Metropolitan Museum</span>, percorrendone i dipartimenti) che permetta di passare da un video al successivo (od al precedente) nella banca dati.
-{% raw %}
 
 [1]: http://validator.w3.org/ "Il servizio offerto dal W3C, in inglese"
 [3]: http://archive.org/ "In inglese, Internet Archive"
@@ -75,4 +74,4 @@ Altra mancanza spiacevole è la possibilità di percorrere cronologicamente i vi
 [7]: http://www.archivispotpolitici.it/progetto.php "Presentazione del progetto"
 [8]: http://www.archivispotpolitici.it/link.php "La sezione Link dell'Archivio degli spot politici"
 [9]: http://zeriuno.github.com/2012/12/07/l-archivio-del-bollettino-d-arte-in-linea.html "Il Bollettino d'Arte, su Zeriuno"
-[10]: http://www.archivispotpolitici.it/progetto.php ""
+[0]: http://www.archivispotpolitici.it/progetto.php

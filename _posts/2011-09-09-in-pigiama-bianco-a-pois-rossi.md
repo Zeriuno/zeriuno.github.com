@@ -39,14 +39,8 @@ Mellel (gli aggiornamenti sono [gratuiti a vita](href="http://www.macgeneration.
 
 Mi spiace iniziare parlando di qualcosa che riguarda solamente gli utenti <span lang="en">Mac</span>: cercherò di non farlo sempre, ma rischia di capitare altre volte.
 
-<div class="footnotes">
-
-
-
 <hr />
 
-
-
 <a name="1"></a>
-I meriti, se ve ne sono, vanno divisi, anche, tra <a href="http://davidbosman.fr/blog/index.php">David Bosman</a>, <a href="http://www.vincent-ca.tumblr.com/">Vincent Carlino</a> e <del><a href="http://anthonynelzin.com/">Anthony</a></del> <a href="http://metrozendodo.com/">Nelzin]</a>.<a href="#[1]"> ↩</a>
+I meriti, se ve ne sono, vanno divisi, anche, tra <a href="http://davidbosman.fr/blog/index.php">David Bosman</a>, <a href="http://www.vincent-ca.tumblr.com/">Vincent Carlino</a> e <del><a href="http://anthonynelzin.com/">Anthony</a></del> <a href="http://metrozendodo.com/">Nelzin</a>.<a href="#[1]"> ↩</a>
 </div>

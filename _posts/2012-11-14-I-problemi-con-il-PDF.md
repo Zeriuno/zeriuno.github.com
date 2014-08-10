@@ -8,7 +8,7 @@ tags:
 type: post
 published: true
 ---
-Com'è logico, la sua apparizione nel paesaggio informatico non ha mancato di sorprendere o stupire (me compreso), ma PDF si è oramai affermato come un formato di documenti ubiquo. <span lang="en">Fletcher Penney</span> ha tra l'altro messo a punto un rigoroso sistema di gestirli, per il suo lavoro, che io trovo un po' complesso e macchinoso, ma che non è scevro di [spunti interessanti][1].
+<abbr title="Portable Document Format" lang="en">PDF</abbr> si è oramai affermato come un formato di documenti ubiquo. <span lang="en">Fletcher Penney</span> ha tra l'altro messo a punto un rigoroso sistema di gestirli, per il suo lavoro, che io trovo un po' complesso e macchinoso, ma che non è scevro di [spunti interessanti][1].
 
 Ciò non ostante, si tratta di un formato ben lontano dall'essere comodo ed efficiente. Innanzi tutto si fonda su un'ambiguità, quella tra immagine e testo. Benché contenga testo, non necessariamente un PDF lo rappresenta in quanto tale, informaticamente. Nulla cambia per l'occhio umano, ma molto cambia per il <span lang="en">computer</span>, e quindi per il lettore: se il testo non è riconosciuto come tale, non è neppure possibile effettuare una ricerca testuale.
 

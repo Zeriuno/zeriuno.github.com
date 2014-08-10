@@ -16,4 +16,4 @@ Come e meglio di me, <a href="http://ldumont.org/" title="Il sito di Léo Dumont
 
 Un grafico che renda conto della ripartizione cronologica di una data lista di pubblicazioni. Solo a me pare uno strumento molto interessante per rendere conto dell'evoluzione degli studi su un dato argomento?
 
-[1]: http://ldumont.org/blog/2009/07/03/creer-un-graphique-de-la-repartition-chronologique-de-ses-references-bibliographiques-avec-bookends-et-un-tableu/ Sul suo blog, in francese
+[1]: http://ldumont.org/blog/2009/07/03/creer-un-graphique-de-la-repartition-chronologique-de-ses-references-bibliographiques-avec-bookends-et-un-tableu/ "Sul suo blog, in francese"

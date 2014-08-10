@@ -13,7 +13,7 @@ published: true
 Mi sono <a href="/2011/10/12/gli-strumenti-di-revisione.html" title="Qui, parlando degli strumenti di revisione">già</a> lamentato della mancanza della possibilità di inserire commenti all’interno dei file di Mellel, così come se ne sono lamentati alcuni utenti di Mellel che <a title="Qui, per esempio" href="http://forum.redlers.com/viewtopic.php?f=2&amp;t=2630&amp;p=15191&amp;hilit=comments#p15191">richiedono</a> compaia questo strumento nella prossima versione del programma, la 3.0.
 
 Avevo anche segnalato la possibilità di servirsi delle note, in Mellel particolarmente ricche, per ovviare a questa mancanza, e promesso di dire di più sull’argomento: iniziando a lavorare con questo programma sono riuscito a indagare sulle note, ma ho anche scoperto l’utilità dell’evidenziatore, che presento per primo.
-<h2>Evidenziatore</h2>
+##Evidenziatore
 In che misura l’evidenziatore può sostituire i commenti? Prima di arrivare alla sua versione definitiva, sappiamo, un testo vive, più o meno a lungo, con alcune imperfezioni e punti da rivedere (un riferimento bibliografico da completare; una citazione da verificare; una data approssimata; un sinonimo da cercare e tanti altri casi possibili). I commenti possono servire per rendere conto di questi appunti.
 
 <img title="Commenti che segnalano punti da rivedere" src="/immagini/mellel.jpg" alt="Commenti che segnalano punti da rivedere" />
@@ -40,20 +40,20 @@ Nel menù, tre pulsanti permettono di gestire lo strumento: uno per appuntare i 
 
 e due per procedere alla revisione scorrendo, senza possibilità di saltarne per inavvertenza, i brani evidenziati.
 
-<img title="Tasto &quot;Trova il precedente testo evidenziato&quot;" src="/immagini/mellel5.jpg" alt="Tasto &quot;Trova il precedente testo evidenziato&quot;" />
+<img title="Tasto &quot;Trova il precedente testo evidenziato&quot;" src="/immagini/mellel5.jpg" alt="Tasto Trova il precedente testo evidenziato" />
 <i>Il tasto in alto scorre il testo che precede alla ricerca di un passo evidenziato</i>
 
-<img title="Tasto &quot;Trova il successivo testo evidenziato&quot;" src="/immagini/mellel6.jpg" alt="Tasto &quot;Trova il successivo testo evidenziato&quot;" />
+<img title="Tasto Trova il successivo testo evidenziato" src="/immagini/mellel6.jpg" alt="Tasto Trova il successivo testo evidenziato" />
 <i>Il tasto intermedio scorre il testo che segue alla ricerca di un passo evidenziato</i>
 
 L’evidenziatore, che modifica una parte del corpo del testo, risulta forse meno visibile ad una scorsa rapida, quindi, che non un commento, che dal corpo del testo si sporge, richiamando più facilmente l’occhio, e non permette di associare un testo al brano selezionato. L’evidenziatore consente però di associare una categoria al colore e di scorrere in maniera automatizzata i brani evidenziati, supplendo alla minore visibilità dello strumento.
-<h2>Le note</h2>
+##Le note
 Personalizzabili, Mellel fa delle note uno strumento particolarmente flessibile ed utile. Potrebbero essere usate sia durante la stesura del testo che durante una revisione per segnalare, tramite una serie di note apposita, dei passaggi da rivedere, delle lacune da colmare.
 
 <img title="Modificare il formato delle note" src="/immagini/mellel7.jpg" alt="Modificare il formato delle note" />
 <i>La prima cosa da fare è aprire il pannello per modificare il formato delle note.</i>
 
-<img title="Aggiungere una serie di note, rinominarla" src="/immagini/mellel8.jpg"; alt="Aggiungere una serie, con il tasto + a sinistra e rinominarla a piacere." >
+<img title="Aggiungere una serie di note, rinominarla" src="/immagini/mellel8.jpg"; alt="Aggiungere una serie, con il tasto + a sinistra e rinominarla a piacere." />
 <i>Aggiungere una serie, con il tasto <i>+</i> a sinistra e rinominarla a piacere.</i>
 
 <img title="Creare un comando da tastiera per l'inserimento di una nuova nota" src="/immagini/mellel9.jpg" alt="Creare un comando da tastiera per l'inserimento di una nuova nota" />

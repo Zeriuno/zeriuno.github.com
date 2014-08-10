@@ -3,8 +3,8 @@ title: Il valore dei libri elettronici
 layout: post
 date: 2013-01-08
 status: publish
-tags: 
-- libri elettronici
+tags:
+- libri numeriali
 type: post
 published: true
 ---

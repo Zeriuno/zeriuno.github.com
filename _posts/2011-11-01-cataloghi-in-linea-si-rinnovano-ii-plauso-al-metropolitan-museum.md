@@ -15,7 +15,7 @@ Così <a title="Qui parlavo dell'OPAC SBN (e di Europeana)" href="/2011/10/18/ca
 
 Io presi a frequentarlo regolarmente quando la sua prima pagina era dedicata alla una proposta, ogni giorno diversa, di scoprire un’opera, l’opera del giorno.
 
-<h2 id="metloperadelgiorno">Met, l’opera del giorno</h2>
+##Met, l’opera del giorno
 
 <img title="metmuseum.org, prima pagina del 27 Marzo 2010" src="/immagini/met1.jpg" alt="metmuseum.org, prima pagina del 27 Marzo 2010" />
 
@@ -47,7 +47,7 @@ Artwork of the Day funzionava, e se oggi non funziona più è perché, credo nel
 
 Da alcuni mesi non avevo più varcato la soglia del sito del museo, ed è stato con una certa sorpresa che una sera ho visto che era stato rinnovato, ancora, così come i siti di cui parlavamo poco fa. È tornata l’opera del giorno, anche se poco in evidenza, nella sezione del sito consacrata alle <a title="Le Collezioni" href="http://metmuseum.org/collections">collezioni del museo</a> ed è cambiata la grafica. Tuttavia i cambiamenti di livrea, i più vistosi, sono anche quelli meno interessanti: mi concentro sull’aspetto più importante: rivoluzionario addirittura.
 
-<h2>Met, la rivoluzione</h2>
+##Met, la rivoluzione
 
 La banca dati del Metropolitan Museum of Art non è stata solo rinnovata, in linea con il resto del sito, ma anche significativamente arricchita: no, la rivoluzione non è questa.
 

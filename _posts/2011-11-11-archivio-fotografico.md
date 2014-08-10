@@ -7,11 +7,6 @@ tags:
 - Documenti
 - Immagini
 - Ricerca
-meta: 
-  jabber_published: "1321008797"
-  email_notification: "1321008801"
-  _edit_last: "24994084"
-  superawesome: "false"
 type: post
 published: true
 ---
@@ -40,4 +35,4 @@ Il numero mi permette di stabilire in maniera forzosa l’ordine della visualizz
 <blockquote>Avignon, Musée Calvet | LL Disegni</blockquote>
 La città, l’istuzione primo elemento: non era stata la mia prima idea, ma ho abbandonato perché trovarsi di fronte a venti cartelle che iniziano tute con *LL Disegni | * non è pratico per selezionare velocemente quella che si cerca. Anche qui una parte del nome della cartella serve per identificarla in maniera univoca e non rischiare di confondere, ad esempio, due cartelle consacrate al Musée Calvet ma che contengono artisti diversi.
 
-È così che organizzo la mia fototeca digitale, strumento fondamentale per chi non si limita a giocare a carte. Che ne pensate, che soluzioni adottate, voi?
+È così che organizzo la mia fototeca numeriale, strumento fondamentale per chi non si limita a giocare a carte. Che ne pensate, che soluzioni adottate, voi?

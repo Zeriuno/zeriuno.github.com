@@ -6,16 +6,12 @@ tags:
 - Computer
 - Mac
 - Passi avanti
-meta: 
-  jabber_published: "1320742350"
-  email_notification: "1320742353"
-  _edit_last: "24994084"
 type: post
 published: true
 ---
 Non sapevo come fare, ma non mi importava davvero scoprirlo. È solo ieri che, manipolando e pigiando curioso, ho trovato il passaggio segreto.
 
-Il primo passaggio è selezionare il testo, ovviamente, e poi si premono i tasti <em>cmd T</em> e si ottiene la finestra relativa ai caratteri. Mi sono sempre fermato qui, fino a che non sono stato incuriosito dalla rotellina delle preferenze: mai esplorata prima, ottima scusa per farlo, una buona volta! Ho premuto sulla voce <em>Tipografia</em>.
+Il primo passaggio è selezionare il testo, ovviamente, e poi si premono i tasti <em><abbr title="command">cmd</abbr> T</em> e si ottiene la finestra relativa ai caratteri. Mi sono sempre fermato qui, fino a che non sono stato incuriosito dalla rotellina delle preferenze: mai esplorata prima, ottima scusa per farlo, una buona volta! Ho premuto sulla voce <em>Tipografia</em>.
 
 <img title="Pages, Finestra dei caratteri, Tipografia" src="/immagini/maiuscoletto1.jpg" alt="Pages, Finestra dei caratteri, Tipografia" />
 

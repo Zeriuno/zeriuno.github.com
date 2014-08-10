@@ -20,7 +20,7 @@ Con l'accordo, <span lang="en">Google</span> si impegnava a mettere a disposizio
 * Opere letterarie del XIX Secolo che hanno creato il clima culturale che ha portato all’unità d’Italia;
 * Opere illustrate e litografie di ogni epoca.
 
->La Biblioteca Nazionale di Roma includerà nel progetto di digitalizzazione tra le altre:<br>
+>La Biblioteca Nazionale di Roma includerà nel progetto di numerizzazione tra le altre:<br>
 * Rare prime edizioni di opere del XIX Secolo;
 * Opere di Giambattista Vico, Keplero e Galileo Galilei;
 * Erbari e Farmacopee del XIX Secolo.

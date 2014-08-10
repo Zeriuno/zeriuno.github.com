@@ -10,7 +10,7 @@ tags:
 type: post
 published: true
 ---
-Come abbia organizzato il mio archivio fotografico digitale, è scritto (<a href="/2011/11/07/anagrafe-dei-bit-nominare-le-immagini.html" title="Nominare le immagini">là</a>, <a href="/2011/11/11/archivio-fotografico.html" title="Organizzarle in un archivio">lì</a>, e <a href="/2011/11/14/archivio-fotografico-il-dono-dellubiquita.html" title="Posizioni multiple per le stesse immagini">qui</a>).
+Come abbia organizzato il mio archivio fotografico numeriale, è scritto (<a href="/2011/11/07/anagrafe-dei-bit-nominare-le-immagini.html" title="Nominare le immagini">là</a>, <a href="/2011/11/11/archivio-fotografico.html" title="Organizzarle in un archivio">lì</a>, e <a href="/2011/11/14/archivio-fotografico-il-dono-dellubiquita.html" title="Posizioni multiple per le stesse immagini">qui</a>).
 Quel che non ho detto è che io non uso questo archivio solo per ricercare, puntualmente, delle immagini che mi interessino (per fare confronti, per controllare o altro), ma continuamente, per ripassarle di frequente: è il mio salvaschermo.
 
 Che sia tutto l’archivio o solo una parte (un artista, solo una certa categoria delle sue opere, ad esempio), grazie all’organizzazione per cartelle è facile richiedere che il salvaschermo sia realizzato proiettando le immagini che ci interessano. Immagino sia semplice da fare anche su Windows, ma posso indicare la procedura solo per Mac.
