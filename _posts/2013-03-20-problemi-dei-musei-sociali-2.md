@@ -14,7 +14,7 @@ Dopo [la disavventura della <span lang="fr">Cinémathèque</span>][1], è il <sp
 
 In seguito alla pubblicazione su <span lang="en">Facebook</span> di nudo, una fotografia di <span lang="fr">Laure Albin Guillot</span>, il museo ha ricevuto la segnalazione che il contenuto inserito era stato rimosso, ed il profilo dell'istituzione sospeso: la fotografia era stata considerata in violazione delle condizioni d'uso stabilite dalla società.
 
-Si tratta di una sorpresa? Affatto. Non solo il museo ha sicuramente preso conoscenza dei termini d'uso di <span lang="en">Facebook</span> prima di accettarli, ma ha certamente saputo di [quanto capitato alla <span lang="fr">Cinémathèque</span> poco fa][1]; sa senza dubbio che un utente che usava <i lang="fr">L'origine du monde</i> di <span lang="fr">Courbet</span> come immagine del suo profilo [venne sospeso][2] (il quadro ha causato [altri][a] casi [simili][7]); non ignora forse che un disegno del <span lang="en">New Yorker</span> che mostrava dei seni [venne rifiutato][3] come pure è stato per, tornando nell'ambito dei musei, un'opera di <span lang="de">Gerhard Richter</span> pubblicata [quest'estate dal <span lang="fr">Centre Pompidou</span>][5].
+Si tratta di una sorpresa? Affatto. Non solo il museo ha sicuramente preso conoscenza dei termini d'uso di <span lang="en">Facebook</span> prima di accettarli, ma ha certamente saputo di [quanto capitato alla <span lang="fr">Cinémathèque</span> poco fa][1]; sa senza dubbio che un utente che usava <i lang="fr">L'origine du monde</i> di <span lang="fr">Courbet</span> come immagine del suo profilo [venne sospeso][2] (il quadro ha causato [altri][6] casi [simili][7]); non ignora forse che un disegno del <span lang="en">New Yorker</span> che mostrava dei seni [venne rifiutato][3] come pure è stato per, tornando nell'ambito dei musei, un'opera di <span lang="de">Gerhard Richter</span> pubblicata [quest'estate dal <span lang="fr">Centre Pompidou</span>][5].
 
 ##Censura?
 
@@ -24,7 +24,7 @@ Una lettura, anche molto superficiale, delle condizioni d'uso chiarisce senza po
 
 ##Quale paradigma culturale
 
-Già ripreso più volte per lo stesso tipo di problema, per l'avvenire il museo [si ripromette di astenersene][b]:
+Già ripreso più volte per lo stesso tipo di problema, per l'avvenire il museo [si ripromette di astenersene][4]:
 
 >Au prochain avertissement de Facebook, notre compte risque d'être définitivement désactivé. Aussi nous ne publierons plus de nus, même si nous pensons que leur valeur artistique est grande
 
@@ -67,18 +67,18 @@ In quanto decentralizzate, invece, soluzioni come [Diaspora][16], il progetto [i
 [1]: /2013/01/31/problemi-dei-musei-sociali-1.html "Ne discutevamo su Zeriuno"
 [2]: http://www.numerama.com/magazine/18571-censure-par-facebook-pour-avoir-publie-l-origine-du-monde-de-courbet.html "Articolo in francese"
 [3]: http://www.numerama.com/magazine/23683-le-new-yorker-banni-de-facebook-pour-des-seins-nus-dans-un-dessin.html "Articolo in francese"
-[b]: http://www.numerama.com/magazine/25307-musee-du-jeu-de-paume-facebook-assume-la-censure.html ""
+[4]: http://www.numerama.com/magazine/25307-musee-du-jeu-de-paume-facebook-assume-la-censure.html
 [5]: http://blouinartinfo.com/news/story/816583/facebook-censors-a-gerhard-richter-nude-posted-by-the-pompidou-center "Su artinfo, in inglese"
-[a]: http://www.01net.com/editorial/578301/facebook-re-censure-lorigine-du-monde/ "Pino"
+[6]: http://www.01net.com/editorial/578301/facebook-re-censure-lorigine-du-monde/
 [7]: http://www.01net.com/editorial/544800/facebook-assigne-en-justice-pour-avoir-censure-un-nu-de-courbet/
 [8]: http://www.arretsurimages.net/vite.php?id=14274 "In francese, su Arrêt sur images"
 [9]: http://www.treccani.it/vocabolario/censura/ "Censura, sul vocabolario Treccani"
 [10]: http://gigaom.com/2012/12/13/guardian-kills-its-facebook-social-reader-regains-control-over-its-content/ "Il Guardian abbandona Facebook"
-[11]: http://dangerousminds.net/comments/facebook_i_want_my_friends_back ""
+[11]: http://dangerousminds.net/comments/facebook_i_want_my_friends_back
 [12]: http://www.elezea.com/2011/12/facebook-ads-and-you/ "3 Dollari l'anno per ripagare Facebook"
-[13]: http://www.theatlantic.com/technology/archive/2012/06/what-happened-to-silicon-values/258905/ ""
-[14]: http://mashable.com/2013/01/27/facebook-ten-bucks/ ""
+[13]: http://www.theatlantic.com/technology/archive/2012/06/what-happened-to-silicon-values/258905/
+[14]: http://mashable.com/2013/01/27/facebook-ten-bucks/
 [15]: http://owni.fr/2012/10/10/pompidou-virtuel-ouvert-ou-sous-verre/ "In francese, sul defunto Owni"
-[16]: http://diasporaproject.org ""
+[16]: http://diasporaproject.org
 [17]: http://identi.ca
-[18]: https://tent.io ""
+[18]: https://tent.io
